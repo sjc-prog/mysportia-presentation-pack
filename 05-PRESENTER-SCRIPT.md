@@ -128,7 +128,9 @@ PromptPay and Thai QR and cards, automatic invoices and receipts and VAT, member
 records, staff. Everything a venue owner currently does by hand at eleven o'clock at night.
 
 The **consumer side is the storefront**. Find any sport, by place, date or type. Book it and pay in
-a few taps. Find someone at your level to play against. In Thai and in English.
+a few taps. Find someone at your level to play against. And the person gets **control** — their
+bookings, their passes, their memberships, in one account in their pocket, instead of a paper card
+behind a counter. In Thai and in English.
 
 One system. The engine makes the storefront possible — and that's the next part of the story.
 
@@ -194,6 +196,10 @@ every morning.
 
 It's running today at **thirty-two pilot venues in Thailand**, taking real bookings and real
 payments, right now.
+
+And underneath it sits real payment infrastructure: we operate as a **master merchant with Stripe
+and with Omise**. That means a new venue is taking digital payments in hours, not weeks — the rails
+are already built to scale.
 
 Measured against the full product we've planned, this is roughly **fifteen percent** of it. The
 venues are fixed. The plumbing works. Which is exactly what makes the next slide possible.

@@ -18,7 +18,7 @@ content rather than shrink type. There is no prize for fitting more on.
 seconds. If two ideas are fighting, split the slide.
 
 **3 · Numbers are the typography.** `75%` · `3 in 4` · `15%` · `85%` · `32` · `5.65M` — these are the
-most persuasive marks in the document. Set them at 96–160pt in Satoshi 600 and let them carry whole
+most persuasive marks in the document. Set them at 96–160pt in Poppins 600 and let them carry whole
 slides. A large, precisely set number is the single most beautiful thing this deck can do.
 
 **4 · Restraint reads as competence.** Seventy per cent of every slide is off-white ground. Green is a
@@ -63,101 +63,110 @@ the frame holding, not the frame being replaced.
 
 # Part three — Education AI Group, the parent system
 
-## 3.1 Colour
+> ⚠️ **Corrected 2026-09-05.** An earlier version of this document specified a sage-green/Satoshi
+> system taken from a superseded brand book. **That brand is dead.** The authoritative sources are
+> now the files in `assets/01-eag-brand-book/`: the brand board (`06-brand-board-dark.png`), the
+> colour palette (`colour-palette.png`) and the four logo lockups. The live educationai.group site
+> matches this system.
+
+## 3.1 Colour — the real palette
 
 | Role | Name | Hex |
 |---|---|---|
-| Accent | **Green** | `#6FBC8F` |
-| Accent light | **Mint** | `#A7E3C1` |
-| Accent deep | **Deep Green** | `#2E6B53` |
-| Text / dark ground | **Navy** | `#111827` |
-| Rule / border | **Light Grey** | `#E6EAE7` |
-| Page ground | **Off White** | `#F7F8F7` |
-| Secondary text | — | `#5A6270` |
-| Tertiary text | — | `#9AA1AC` |
+| Primary ink / dark ground | **Deep Navy** | `#0B132B` |
+| Accent — energy | **Future Blue** | `#2563FF` |
+| Accent — signature | **Tech Teal** | `#00D4C8` |
+| Accent — growth | **AI Green** | `#22C55E` |
+| Accent — highlight only | **Lime** | `#A3FF12` |
+| Light ground | **Soft White** | `#F6F8FA` |
+| Secondary text | — | `#475569` |
+| Tertiary text / grid | — | `#94A3B8` |
+| Card border | — | `#E2E8F0` |
 
-**Ratio: ~70% off-white ground, ~20% navy type, ~10% green.**
+**Gradients are core brand devices — four are defined, no others exist:**
 
-**There is no cyan and there are no gradients.** If any older brief said "green-to-cyan", it was wrong
-and is withdrawn. The ground is Off White `#F7F8F7`, never pure white.
+| Gradient | Stops |
+|---|---|
+| Blue | `#2563FF → #00D4C8` |
+| Teal | `#00D4C8 → #22C55E` |
+| Green | `#22C55E → #A3FF12` |
+| Dark | `#0B132B → #1E293B` |
+
+**Discipline for this document:** the reviewer context still demands restraint. At most **one
+gradient element per slide** — normally the foot rule. Gradient text only on the cover and the
+section openers. Flat Tech Teal is the working accent everywhere else. Lime is a highlight for
+small marks and chart pops, never for text on a light ground (it fails contrast), never a fill for
+large areas.
 
 ## 3.2 Typography
 
-**Satoshi** for headings and key communication. **Inter** for body and supporting.
-Fallback if Satoshi is unavailable: General Sans, then Inter at tighter tracking. **Never a serif,
-never a geometric display face.**
+**Poppins** for headings and key communication — SemiBold (600) for titles, Medium (500) for
+sub-heads. **Inter** for body and supporting. Both are the brand's own specified faces; both are on
+Google Fonts. Never a serif, never a substitute display face.
 
 | Element | Size | Weight | Tracking | Colour |
 |---|---|---|---|---|
-| Section opener | 72pt | Satoshi 600 | −2% | White on Navy |
-| Slide title | 40pt | Satoshi 600 | −1% | Navy |
-| Eyebrow above title | 11pt | Inter 600, UPPERCASE | +12% | Deep Green |
-| Hero number | 96–160pt | Satoshi 600 | −3% | Navy, unit in Green |
-| Sub-head / lead-in | 22pt | Satoshi 500 | −0.5% | Navy |
-| Body | 16pt | Inter 400 | 0 | `#5A6270` |
-| List item title | 17pt | Inter 600 | 0 | Navy |
-| Table | 14pt | Inter 400 | 0 | Navy |
-| Caption / source | 11pt | Inter 400 | 0 | `#9AA1AC` |
+| Section opener | 72pt | Poppins 600 | −1% | Soft White on Deep Navy |
+| Slide title | 40pt | Poppins 600 | −0.5% | Deep Navy |
+| Eyebrow above title | 11pt | Inter 600, UPPERCASE | +12% | Tech Teal |
+| Hero number | 96–160pt | Poppins 600 | −2% | Deep Navy, unit in AI Green |
+| Sub-head / lead-in | 22pt | Poppins 500 | 0 | Deep Navy |
+| Body | 16pt | Inter 400 | 0 | `#475569` |
+| List item title | 17pt | Inter 600 | 0 | Deep Navy |
+| Table | 14pt | Inter 400 | 0 | Deep Navy |
+| Caption / source | 11pt | Inter 400 | 0 | `#94A3B8` |
 
-Body line-height **1.55**. Headline line-height **1.12**. Measure: **never wider than 72 characters.**
+Body line-height **1.55**. Headline line-height **1.12**. Measure ≤ **72 characters**.
 
-## 3.3 The signature typographic move
+## 3.3 The signature moves
 
-Headlines run Navy and the **final phrase drops to Green**. The brand's own line does exactly this:
-
-> Intelligent. Trusted. Simple. **Future-ready.**
-
-Use it on the cover and on section openers. **Once per spread at most** — it stops working when every
-headline does it.
+- Headlines run Deep Navy and the **final phrase drops to Tech Teal** — the brand's own tagline
+  does exactly this: "Smarter Education. **Stronger Futures.**" Once per spread at most.
+- On the cover and section openers only, the key word may carry the **Blue gradient as text fill**
+  — the live site sets its lead word this way.
+- Brand tone words, from the brand board: **Curious. Calm. Clever. Caring.**
 
 ## 3.4 Grid and layout
 
-- Canvas **1920 × 1080**. Outer margin **96px** all sides; **112px** on the cover.
-- **12 columns**, 24px gutters. Two-up content sits 6/6 with a full gutter; asymmetric splits use 7/5.
-- **8px baseline grid.** Everything snaps. Consistent vertical rhythm is most of what makes a deck feel
-  professionally set.
-- Title block sits at a fixed height on every content slide so titles do not jump between slides.
-- Content starts at a consistent y across the deck. Slides that break the grid should break it
-  deliberately and completely — a hero-number slide, a full-bleed panel — never by a few pixels.
+- Canvas **1920 × 1080**. Outer margin **96px** (112px on the cover). **12 columns**, 24px gutters.
+- **8px baseline grid.** Title block at a fixed height on every content slide.
+- Light slides on Soft White `#F6F8FA`. The cover and the three section openers run on Deep Navy
+  `#0B132B` (the Dark gradient `#0B132B → #1E293B` is permitted as their ground).
 
 ## 3.5 Page furniture — on every slide
 
-Taken from the letterhead, document cover and presentation-slide specimens on brand-book page 05.
-
-1. **Green foot rule.** Solid `#6FBC8F`, full width of the bottom edge, **6px**. This is the strongest
-   single carrier of the identity — it is on the letterhead, the cover and the email signature.
-   **Every slide. No exceptions, including the dark ones.**
-2. **Header.** EAG horizontal logo top-left, 32px high. Right-hand slot: `BOI 8.1.1 · EDUCATION AI GROUP`
-   in 10pt Inter, `#9AA1AC`, uppercase, wide-tracked.
-3. **Page number.** Top-right or bottom-right, Inter 11pt, format `04 | 16` with the separator in
-   Green — the brand book numbers its own pages this way.
-4. **Ghosted leaf watermark.** The leaf icon at **3–6% opacity**, large, bleeding off one corner.
-   **One per slide maximum, and never behind a table, a chart, or a screenshot.** Use it on the cover,
-   the section openers and the definition slide. Not on dense slides.
+1. **The gradient foot rule.** A bar across the full width of the bottom edge, **6px**, filled with
+   the Blue gradient `#2563FF → #00D4C8`, left to right — this is the document device shown on the
+   brand board's own document mock. **Every slide, dark ones included.**
+2. **Header.** EAG horizontal logo top-left, 32px high (`logo-horizontal-white-bg.png`; the pale
+   reverse on dark slides). Right-hand slot: `MYSPORTIA · EDUCATION AI GROUP` in 10pt Inter,
+   `#94A3B8`, uppercase, wide-tracked.
+3. **Page number.** Inter 11pt, format `04 | 22`, separator in Tech Teal.
+4. **Ghosted leaf watermark.** The gradient leaf (`logo-leaf-icon.png`) at 3–6% opacity, large,
+   bleeding off one corner. One per slide maximum; never behind a table, chart or screenshot.
 
 ## 3.6 Logo rules
 
-Clear space on all four sides equal to the cap height of the "E" in the wordmark. Minimum 120px
-digital. Never alter proportions, colours or elements. Reverse lockup (white wordmark, green leaf) on
-Navy or on photography. Files in `assets/02-eag-logos/`.
+Files in `assets/01-eag-brand-book/`: `logo-horizontal-white-bg.png` (primary),
+`logo-stacked-white-bg.png`, `logo-leaf-icon.png` (icon only), `logo-horizontal-pale.png` (reverse,
+for dark grounds). Clear space equal to the leaf's own width on all sides; minimum 120px digital;
+never redrawn, recoloured or squeezed.
 
 ## 3.7 Components
 
-- **Cards** — Off White or white, `#E6EAE7` 1px border, **16px radius**, very soft shadow
-  (`0 1px 2px rgba(17,24,39,0.04), 0 8px 24px rgba(17,24,39,0.05)`), **32px internal padding**.
-- **Numbered list items** — the numeral in Green, Satoshi 600, hung in the left margin so the text
-  block stays flush. Do not use bullet dots anywhere in this deck.
-- **Icons** — thin single-weight line, open forms, often inside a circular outline. Never filled,
-  never duotone. Reference set on brand-book page 05.
-- **Rounded forms throughout.** Nothing sharp-cornered.
+- **Cards** — white on Soft White ground, `#E2E8F0` 1px border, **16px radius**, soft low shadow,
+  **32px padding**.
+- **Numbered lists** — numeral hung in the left margin in Tech Teal, Poppins 600. **No bullet dots
+  anywhere in the deck.**
+- **Icons** — thin single-weight line icons in the accent colours, as on the brand board's icon row.
+  Never filled, never emoji.
+- **Stat chips / status tags** — Deep Navy text on a 10% tint of the relevant accent.
 
 ## 3.8 Section openers
 
-Navy `#111827` ground, reverse logo, 72pt white title with the final word in Green, eyebrow in Mint,
-large ghosted leaf. **Green foot rule stays.** Three of them: *The opportunity* · *The project* ·
-*Thailand's return*.
-
----
+Deep Navy ground (Dark gradient permitted), reverse logo, 72pt Soft White title with the final word
+in Tech Teal, eyebrow in Tech Teal, large ghosted gradient leaf. Gradient foot rule stays. Three of
+them: *The opportunity* · *The build* · *Thailand's return*.
 
 # Part four — MySportia, inside the frame
 
@@ -195,7 +204,7 @@ light ground. Fills, accents and large display type only.
 ## 4.3 Typography
 
 **Averta** — Bold for headers, Semibold for subheads, Regular for body. **The company holds no web
-licence for Averta**, so if it is unavailable use the EAG stack (Satoshi / Inter) rather than
+licence for Averta**, so if it is unavailable use the EAG stack (Poppins / Inter) rather than
 substituting a lookalike. MySportia type appears in this deck only inside product screenshots.
 
 ## 4.4 The sport icon library
@@ -234,20 +243,20 @@ And the voice, which the BOI register happens to agree with completely:
 - **The pink, amber and green** — only inside a screenshot, on the MySportia mark, or in the icon set.
   **They are not document accent colours.** Never tint an EAG chart pink; never set an EAG headline
   word in MySportia amber.
-- **The navy** — MySportia `#233247` and EAG `#111827` read as one family. Where they meet, use EAG's
-  `#111827` for type and let `#233247` live inside product imagery.
+- **The navies** — MySportia `#233247` and EAG Deep Navy `#0B132B` read as one family. Where they
+  meet, use EAG `#0B132B` for type and let `#233247` live inside product imagery.
 
 # Part five — charts and tables
 
-- Off-white ground, `#E6EAE7` gridlines at 1px, **no chart borders, no 3D, no shadows on data.**
-- Series order: `#6FBC8F` → `#2E6B53` → `#A7E3C1` → `#111827` → `#9AA1AC`.
+- Soft White ground, `#E2E8F0` gridlines at 1px, **no chart borders, no 3D, no shadows on data.**
+- Series order: `#22C55E` → `#00D4C8` → `#2563FF` → `#0B132B` → `#94A3B8`.
 - **Label directly on the data.** A legend is a failure to design the chart.
 - Currency right-aligned, Inter tabular numerals, **THB stated once in the column header**, not in
   every cell.
 - **Negative numbers in parentheses, in Navy — never in red.** The Year 1 loss is deliberate and
   correct; red editorialises against our own case.
-- Every chart carries an 11pt basis note beneath it in `#9AA1AC`.
-- Tables: no vertical rules, no zebra fill. A 1px `#E6EAE7` rule under the header and between rows,
+- Every chart carries an 11pt basis note beneath it in `#94A3B8`.
+- Tables: no vertical rules, no zebra fill. A 1px `#E2E8F0` rule under the header and between rows,
   and 20px row padding. Let the whitespace do the separating.
 
 ---
@@ -260,7 +269,7 @@ These two slides carry the document. Give them the most time.
 
 Three statements stacked, each with a dominant number hung left and the sentence set beside it in
 22pt. `75%` and `3 in 4` at ~140pt. Then the turn — *"The reason is not lack of interest. It is lack
-of access."* — set at 28pt in Navy, separated by clear space and a short Green rule, so it reads as
+of access."* — set at 28pt in Navy, separated by clear space and a short Tech Teal rule, so it reads as
 the conclusion rather than a fourth statistic.
 
 No icons. No illustration. The numbers are the design.
@@ -270,8 +279,8 @@ No icons. No illustration. The numbers are the design.
 **This is the emotional centre and the reviewer's actual decision.** It must land in under two seconds.
 
 The approach that works: **one horizontal bar across the full content width**, split 15/85.
-- The 15% segment in **Mint `#A7E3C1`**, labelled *Built and running*.
-- The 85% segment in **Green `#6FBC8F`**, labelled *This project*.
+- The 15% segment in **Tech Teal `#00D4C8` at 25% tint**, labelled *Built and running*.
+- The 85% segment in the **Teal gradient `#00D4C8 → #22C55E`**, labelled *This project*.
 - The numbers set large **above** their segments, not inside them.
 - Beneath each segment, its contents in 16pt Inter — three items on the left, the eight functions
   summarised on the right.
@@ -298,14 +307,15 @@ compression step exists. That is the client's step, not yours.)*
 
 # Part eight — checklist before delivering
 
-- [ ] Green foot rule on **every** slide, including dark ones
-- [ ] EAG logo top-left on every slide; page number `nn | 16` with a Green separator
-- [ ] No cyan, no gradients, no pure white ground
-- [ ] Satoshi headings, Inter body — no serif anywhere
+- [ ] Gradient foot rule (`#2563FF → #00D4C8`) on **every** slide, including dark ones
+- [ ] EAG logo top-left on every slide; page number `nn | 22` with a Tech Teal separator
+- [ ] Only the four brand gradients, at most one gradient element per slide; ground is Soft White `#F6F8FA`, never pure white
+- [ ] Poppins headings, Inter body — no serif anywhere
 - [ ] Every number matches `04-FACTS.md` exactly
 - [ ] Year 1 loss in parentheses, in Navy, not red
 - [ ] No banned word anywhere, **including in captions, chart labels and slide notes**
 - [ ] MySportia pink appears only inside screenshots and the wordmark
+- [ ] At least half the slides carry an image, diagram or chart; never two consecutive all-text slides
 - [ ] Real screenshots used; no invented UI
 - [ ] Technology slide clearly marked as awaiting the CTO
 - [ ] Nobody is named except Justin Cohen and Dmytro Bodlev

@@ -22,7 +22,7 @@ You are building **one deliverable**: a 22-slide flagship presentation for Educa
 
 The audience is senior and governmental — reviewers, ministry stakeholders, serious partners. Not consumers, not a startup crowd. The bar: **a serious technology company’s flagship document.** Clear before clever. Confident before energetic. The company’s own brand voice applies: *“inevitable, not promotional.”*
 
-**Not tech-heavy.** One idea per slide. Numbers are the typography — 75%, 3 in 4, 15%, 85%, 32 — set huge and precise, they are the most persuasive marks in the document. Space is the luxury signal: 96px outer margins, and if a slide feels full, cut, never shrink. Three dark navy section openers give the deck its pulse. Nothing that could have come from a template: no gradient meshes, no icon soup, no stock athletes, no bullet dots, no thank-you slide.
+**Visual-first, not tech-heavy.** At least half the slides carry an image, diagram or chart — never two consecutive all-text slides. Slides 4, 6, 8, 11, 12, 14, 17 and 22 are visual by specification. One idea per slide. Numbers are the typography — 75%, 3 in 4, 15%, 85%, 32 — set huge and precise, they are the most persuasive marks in the document. Space is the luxury signal: 96px outer margins, and if a slide feels full, cut, never shrink. Three dark navy section openers give the deck its pulse. Nothing that could have come from a template: no gradient meshes, no icon soup, no stock athletes, no bullet dots, no thank-you slide.
 
 **No file-size limit.** Export at full quality — screenshots at full resolution, diagrams as vectors. The client compresses afterwards. State the final file size on delivery.
 
@@ -34,7 +34,7 @@ EAG owns **every slide**: the ground, the header, the footer, the green foot rul
 
 **The test:** flick through the finished deck at speed. It must read as one Education AI Group document that contains a product — never as two brands taking turns. If a MySportia navy panel is bleeding to the slide edge and carrying a headline, it is wrong.
 
-**The one exception:** a product-showcase slide may run a full-bleed MySportia navy panel *provided* the EAG header, footer, page number and green foot rule stay on top of it in the reverse white/green treatment.
+**The one exception:** a product-showcase slide may run a full-bleed MySportia navy panel *provided* the EAG header, footer, page number and gradient foot rule stay on top of it in the reverse treatment.
 
 > 🖼 *Reference image (supplied in the attached assets): Education AI Group horizontal logo — green leaf mark and navy wordmark*
 
@@ -66,47 +66,58 @@ Extracted from the EAG brand book and the MySportia brand book. Every value is m
 
 ## EAG colour — the document palette
 
-| Role | Name | Hex | Use |
-|---|---|---|---|
-| **The accent** | Green | `#6FBC8F` | primary buttons, the foot rule, key figures, the final phrase of a headline |
-| Accent light | Mint | `#A7E3C1` | fills, chart secondary, tints |
-| Accent deep | Deep Green | `#2E6B53` | eyebrows, small caps, chart dark |
-| Text / dark ground | Navy | `#111827` | all type; the dark-slide ground |
-| Rule / border | Light Grey | `#E6EAE7` | hairlines, borders |
-| Page ground | Off White | `#F7F8F7` | the slide ground |
-| Secondary text | — | `#5A6270` | body copy |
-| Tertiary text | — | `#9AA1AC` | captions, sources |
+> ⚠️ Corrected: an earlier version specified a sage-green/Satoshi system from a superseded brand
+> book. **This is the real brand** — see `assets/01-eag-brand-book/colour-palette.png` and
+> `06-brand-board-dark.png`. The live educationai.group site matches it.
 
-Ratio roughly **70% Off White ground · 20% Navy type · 10% Green**. Green is a highlight, never a large fill. The ground is Off White — never pure white. There is no cyan and there are no gradients anywhere in the EAG frame.
+| Role | Name | Hex |
+|---|---|---|
+| Primary ink / dark ground | **Deep Navy** | `#0B132B` |
+| Accent — energy | **Future Blue** | `#2563FF` |
+| Accent — signature | **Tech Teal** | `#00D4C8` |
+| Accent — growth | **AI Green** | `#22C55E` |
+| Accent — highlight only | **Lime** | `#A3FF12` |
+| Light ground | **Soft White** | `#F6F8FA` |
+| Secondary text | — | `#475569` |
+| Tertiary text / grid | — | `#94A3B8` |
+| Card border | — | `#E2E8F0` |
+
+**Gradients are core brand devices — exactly four exist:** Blue `#2563FF → #00D4C8` · Teal
+`#00D4C8 → #22C55E` · Green `#22C55E → #A3FF12` · Dark `#0B132B → #1E293B`.
+
+**Discipline:** at most one gradient element per slide — normally the foot rule. Gradient text only
+on the cover and section openers. Flat Tech Teal is the working accent. Lime never carries text on a
+light ground and never fills a large area. Content slides sit on Soft White; the cover and the three
+section openers sit on Deep Navy.
 
 ## Type
 
-**Satoshi** for headings and key communication; **Inter** for body and supporting. Fallback if Satoshi is unavailable: General Sans, then Inter tightened. Never a serif, never a geometric display face.
+**Poppins** for headings and key communication (600 titles, 500 sub-heads); **Inter** for body and
+supporting. Both are the brand's specified faces. Never a serif, never a substitute display face.
 
 | Role | Spec |
 |---|---|
-| Section opener | 72pt Satoshi 600, −2% tracking, white on Navy |
-| Slide title | 40pt Satoshi 600, −1%, Navy |
-| Eyebrow | 11pt Inter 600, uppercase, +12% tracking, Deep Green |
-| Hero number | 96–160pt Satoshi 600, Navy, unit in Green |
-| Body | 16pt Inter 400, #5A6270, line-height 1.55, measure ≤ 72ch |
-| Caption / source | 11pt Inter 400, #9AA1AC |
+| Section opener | 72pt Poppins 600, −1% tracking, Soft White on Deep Navy |
+| Slide title | 40pt Poppins 600, −0.5%, Deep Navy |
+| Eyebrow | 11pt Inter 600, uppercase, +12% tracking, Tech Teal |
+| Hero number | 96–160pt Poppins 600, Deep Navy, unit in AI Green |
+| Body | 16pt Inter 400, #475569, line-height 1.55, measure ≤ 72ch |
+| Caption / source | 11pt Inter 400, #94A3B8 |
 
-**The signature move:** headlines run Navy and the final phrase drops to Green — the brand’s own line does it: “Intelligent. Trusted. Simple. Future-ready.” Cover and section openers only; once per spread.
+**The signature move:** headlines run Deep Navy and the final phrase drops to Tech Teal — the
+brand's own tagline does it: "Smarter Education. **Stronger Futures.**" Cover and section openers
+may set the key word in the Blue gradient as text fill; once per spread, nowhere else.
+Brand tone words: **Curious. Calm. Clever. Caring.**
 
 ## Grid and slide furniture — on every slide
 
 1920×1080 · 96px outer margin (112px on the cover) · 12 columns, 24px gutters · 8px baseline grid · title block at a fixed height so titles never jump.
 
-**1.** A solid `#6FBC8F` bar across the full width of the bottom edge, 6px — the strongest single carrier of the identity. Every slide, dark ones included. **2.** EAG horizontal logo top-left, 32px. **3.** Page number “04 | 22” with the separator in Green. **4.** Optional ghosted leaf at 3–6% opacity bleeding off one corner — one per slide, never behind a table, chart or screenshot.
+**1.** The gradient foot rule: a 6px bar across the full width of the bottom edge filled with the Blue gradient `#2563FF → #00D4C8`, left to right — the brand board’s own document device. Every slide, dark ones included. **2.** EAG horizontal logo top-left, 32px (`logo-horizontal-white-bg.png`; the pale reverse on dark slides). **3.** Page number “04 | 22” with the separator in Tech Teal. **4.** Optional ghosted gradient leaf (`logo-leaf-icon.png`) at 3–6% opacity bleeding off one corner — one per slide, never behind a table, chart or screenshot.
 
-**Components:** white cards with 1px `#E6EAE7` borders, 16px radius, soft shadow, 32px padding. Numbered lists hang the numeral in the margin in Green — **no bullet dots anywhere in the deck.** Icons: thin single-weight line, open forms. Charts: off-white ground, 1px gridlines, series order Green → Deep Green → Mint → Navy → Grey, labels on the data (a legend is a failure to design the chart), tabular numerals, THB in the header only, and **negative numbers in parentheses in Navy — never red.**
+**Components:** white cards with 1px `#E2E8F0` borders, 16px radius, soft shadow, 32px padding. Numbered lists hang the numeral in the margin in Tech Teal, Poppins 600 — **no bullet dots anywhere in the deck.** Icons: thin single-weight line icons in the accent colours, as on the brand board. Charts: Soft White ground, 1px `#E2E8F0` gridlines, series order AI Green → Tech Teal → Future Blue → Deep Navy → Grey, labels on the data (a legend is a failure to design the chart), tabular numerals, THB in the header only, and **negative numbers in parentheses in Deep Navy — never red.**
 
-> 🖼 *Reference image (supplied in the attached assets): EAG brand book — colour and typography page*
-> EAG brand book p.03 — the palette and Satoshi/Inter system this deck inherits.
 
-> 🖼 *Reference image (supplied in the attached assets): EAG brand book — applications page with presentation slide specimen*
-> EAG brand book p.05 — note the presentation-slide specimen and the green foot rule.
 
 ## MySportia — inside the frame
 
@@ -121,7 +132,7 @@ The mark is an **X: a dark navy cross with three rounded bars laid across it —
 | UI navy | `#0F1B3D` | the deployed apps |
 | App ground | `#F5F6F7` | with `#E4E6E9` card borders |
 
-The pink, amber and green appear **only** inside screenshots, on the MySportia mark, or in the sport icon set — never as document accents. From the company’s own audit: `#32D882` and `#FBBB17` fail WCAG AA on white for normal text — fills and large display only. Where the navies meet, EAG `#111827` sets the type and MySportia `#233247` lives inside product imagery.
+The pink, amber and green appear **only** inside screenshots, on the MySportia mark, or in the sport icon set — never as document accents. From the company’s own audit: `#32D882` and `#FBBB17` fail WCAG AA on white for normal text — fills and large display only. Where the navies meet, EAG Deep Navy `#0B132B` sets the type and MySportia `#233247` lives inside product imagery.
 
 > 🖼 *Reference image (supplied in the attached assets): The MySportia X mark — navy cross with pink, amber and green bars*
 > The MySportia mark, from its brand book.
@@ -135,9 +146,9 @@ The pink, amber and green appear **only** inside screenshots, on the MySportia m
 
 ## The two set pieces
 
-**The problem slide (3):** 75% and 3 in 4 at ~140pt, hung left, sentences beside them; the turn — “The reason is not lack of interest. It is lack of access.” — set apart after a short green rule, reading as the conclusion, not a fourth statistic.
+**The problem slide (3):** 75% and 3 in 4 at ~140pt, hung left, sentences beside them; the turn — “The reason is not lack of interest. It is lack of access.” — set apart after a short Tech Teal rule, reading as the conclusion, not a fourth statistic.
 
-**The 15/85 slide (14):** one horizontal bar across the full content width, split 15/85 — Mint for “Built and running”, Green for “This project”, numbers set large above their segments, contents beneath. Not two equal columns, not a pie chart, and never flatter the 15%: the 85% dominates the slide because it dominates the project.
+**The 15/85 slide (14):** one horizontal bar across the full content width, split 15/85 — Tech Teal at 25% tint for “Built and running”, the Teal gradient `#00D4C8 → #22C55E` for “This project”, numbers set large above their segments, contents beneath. Not two equal columns, not a pie chart, and never flatter the 15%: the 85% dominates the slide because it dominates the project.
 
 # The 22 slides
 
@@ -179,7 +190,7 @@ The opportunity
 ```
 
 **Design direction:** 
-Dark slide: Navy `#111827` ground, reverse EAG logo, 72pt white title with the final word in Green, eyebrow `ACT I — WHY THIS EXISTS` in Mint, large ghosted leaf. Green foot rule stays.
+Dark slide: Deep Navy `#0B132B` ground (Dark gradient permitted), reverse EAG logo, 72pt Soft White title with the final word in Tech Teal, eyebrow `ACT I — WHY THIS EXISTS` in Tech Teal, large ghosted gradient leaf. Gradient foot rule stays.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -199,7 +210,7 @@ The reason is not lack of interest. It is lack of access.
 ```
 
 **Design direction:** 
-The first set piece. **75%** and **3 in 4** at ~140pt in the display face, hung left, sentence beside each at 22pt. The closing line sits apart after a short green rule, at 28pt — it must read as the conclusion, not a fourth statistic. No icons, no illustration. The numbers are the design.
+The first set piece. **75%** and **3 in 4** at ~140pt in the display face, hung left, sentence beside each at 22pt. The closing line sits apart after a short Tech Teal rule, at 28pt — it must read as the conclusion, not a fourth statistic. No icons, no illustration. The numbers are the design.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -268,7 +279,7 @@ revenue that goes uncollected.
 ```
 
 **Design direction:** 
-Four cards in a 2×2 or 4-up grid — white, hairline border, 16px radius, 32px padding. Block titles in Inter 600 Navy; body in `#5A6270`. No icons needed; if used, thin-line EAG style only.
+Four cards in a 2×2 or 4-up grid — white, hairline border, 16px radius, 32px padding. Block titles in Inter 600 Deep Navy; body in `#475569`. No icons needed; if used, thin-line EAG style only.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -322,7 +333,7 @@ delivering the service.
 ```
 
 **Design direction:** 
-One sentence, large, alone — 34–40pt display, Navy, measure ~60ch, centred block or hung left. No decoration beyond a ghosted leaf. This is the definition the room will quote back.
+One sentence, large, alone — 34–40pt Poppins, Deep Navy, measure ~60ch, centred block or hung left. No decoration beyond a ghosted leaf. This is the definition the room will quote back.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -340,14 +351,16 @@ That’s the whole company. Everything else I show you today is just this senten
 **SET VERBATIM — this is the slide copy, never rewritten:**
 ```
 VENUE SIDE — the engine
-Online booking and schedules · payment integration (PromptPay, Thai QR, cards) ·
+Online booking and schedules · payments as a master merchant with Stripe and
+Omise (PromptPay, Thai QR, cards) ·
 automatic invoices, receipts and VAT · customer database and marketing ·
 memberships and packages · automated reminders · resource and staff management
 
 CONSUMER SIDE — the storefront
 Find any sport by location, date or type · instant booking and payment ·
 peer matchmaking by skill level · create a game, league or tournament ·
-rankings, leaderboards and results · vetted activities, in Thai and English
+rankings, leaderboards and results · your bookings, passes and memberships in
+one account, under your control · vetted activities, in Thai and English
 
 The full planned scope — two sides, one system.
 ```
@@ -361,7 +374,7 @@ It has two sides, and they’re one system.
 
 The **venue side is the engine**. It runs the business — bookings, schedules, payments through PromptPay and Thai QR and cards, automatic invoices and VAT, memberships, customer records, staff. Everything a venue owner currently does by hand at eleven o’clock at night.
 
-The **consumer side is the storefront**. Find any sport, book it and pay in a few taps, find someone at your level. In Thai and in English.
+The **consumer side is the storefront**. Find any sport, book it and pay in a few taps, find someone at your level. And the person gets **control** — their bookings, their passes, their memberships, in one account in their pocket, instead of a paper card behind a counter. In Thai and in English.
 
 One system. The engine makes the storefront possible — and that’s the next part of the story.
 
@@ -447,7 +460,7 @@ Discovery  →  Booking  →  Participation  →  Community  →  Progression
 ```
 
 **Design direction:** 
-Horizontal three-step diagram. Phases 1 and 2 recede (Mint tints, “BUILT” chips); **Phase 3 is visibly the subject** (Green, weight, scale). The journey line sits beneath with the last three words in Green. Caption: “Phases 1 and 2 cover discovery and booking. Phase 3 is participation, community and progression — the half that determines whether a person is still playing in a year.”
+Horizontal three-step diagram. Phases 1 and 2 recede (Tech Teal tints, “BUILT” chips); **Phase 3 is visibly the subject** (Teal gradient, weight, scale). The journey line sits beneath with the last three words in Tech Teal. Caption: “Phases 1 and 2 cover discovery and booking. Phase 3 is participation, community and progression — the half that determines whether a person is still playing in a year.”
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -471,7 +484,8 @@ Discovery. Booking. **Participation. Community. Progression.** The first two get
 Venue management back office — bookings, scheduling, customer records,
 staff and reporting
 Marketplace listing and booking — live at mysportia.com
-Payment integration — PromptPay, Thai QR, cards
+Payment infrastructure — master merchant with Stripe and Omise;
+PromptPay, Thai QR, cards
 
 Live at 32 pilot venues in Thailand
 
@@ -490,7 +504,7 @@ Now — everything on this slide is **live**. This is not a concept and these ar
 
 This is the marketplace, live at mysportia.com — real venues on a real map. This is the booking flow on a phone — pick a trainer, pick a time, pay. And this is the back office a venue manager sees every morning.
 
-It’s running today at **thirty-two pilot venues in Thailand**, taking real bookings and real payments, right now.
+It’s running today at **thirty-two pilot venues in Thailand**, taking real bookings and real payments, right now. And underneath it sits real payment infrastructure: we operate as a **master merchant with Stripe and with Omise** — a new venue is taking digital payments in hours, not weeks. The rails are already built to scale.
 
 Measured against the full product we’ve planned, this is roughly **fifteen percent** of it. The venues are fixed. The plumbing works. Which is exactly what makes the next slide possible.
 
@@ -542,7 +556,7 @@ by the company's Thai engineering team, over twelve months.
 ```
 
 **Design direction:** 
-The most important content slide. Eight numbered items, numerals hung in the left margin in Green (Satoshi 600), titles Inter 600 Navy, descriptions 16pt `#5A6270`. Two columns of four. No bullet dots anywhere. The closing line runs full width beneath, set apart.
+The most important content slide. Eight numbered items, numerals hung in the left margin in Tech Teal (Poppins 600), titles Inter 600 Deep Navy, descriptions 16pt `#475569`. Two columns of four. No bullet dots anywhere. The closing line runs full width beneath, set apart.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -570,7 +584,7 @@ Completeness measured against full planned product scope.
 ```
 
 **Design direction:** 
-**The second set piece — it must land in under two seconds.** One horizontal bar across the full content width, split 15/85: the 15% in Mint labelled “Built and running”, the 85% in Green labelled “This project”. The numbers set large *above* their segments; contents listed beneath each. Not two equal columns, not a pie chart, and do not flatter the 15% — the 85% is what is being asked for and it should dominate the slide because it dominates the project.
+**The second set piece — it must land in under two seconds.** One horizontal bar across the full content width, split 15/85: the 15% in Tech Teal at 25% tint labelled “Built and running”, the 85% in the Teal gradient `#00D4C8 → #22C55E` labelled “This project”. The numbers set large *above* their segments; contents listed beneath each. Not two equal columns, not a pie chart, and do not flatter the 15% — the 85% is what is being asked for and it should dominate the slide because it dominates the project.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -782,7 +796,7 @@ and among whom
 ```
 
 **Design direction:** 
-Two halves: the commitment as four big stat rows on the left (figures in the display face, units in Green); the six returns on the right as a clean list, no bullet dots. Negative numbers never appear here; nothing is red anywhere.
+Two halves: the commitment as four big stat rows on the left (figures in Poppins, units in AI Green); the six returns on the right as a clean list, no bullet dots. Negative numbers never appear here; nothing is red anywhere.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -807,7 +821,7 @@ info@educationai.group
 ```
 
 **Design direction:** 
-A quiet, confident close: the sport icon field at very low opacity behind, the line large in Navy with **playing** in Green, company details small beneath. No thank-you slide, no logo wall.
+A quiet, confident close: the sport icon field at very low opacity behind, the line large on Deep Navy with **playing** carrying the Green Gradient, company details small beneath. No thank-you slide, no logo wall.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -843,6 +857,7 @@ Two of these cost real money: BOI’s own rule for this activity (Por.12/2566 cl
 | Thai IT salaries, year one | **2,080,000 THB** |
 | Thai engineers, Y1 / Y2 / Y3 | **4 / 8 / 12** |
 | Licence bands, THB/month | **1,000 · 2,000 · 5,000 · from 10,000** |
+| Payment infrastructure | **Master merchant with Stripe and Omise** — capability statement, never tied to a fee percentage |
 | Sedentary Thai adults | **75%+** |
 | Stop playing after education | **3 in 4** |
 | Sports tourists / revenue | **2.5M · €423M+** |
@@ -888,8 +903,7 @@ Real product only. These screenshots are supplied as full-resolution files; the 
 
 | Folder | Contents |
 |---|---|
-| `01-eag-brand-book/` | The 8-page EAG brand book — p.05 carries a presentation-slide specimen |
-| `02-eag-logos/` | EAG lockups: horizontal, stacked, leaf icon, reverse |
+| `01-eag-brand-book/` | **The correct EAG brand** — dark brand board, colour palette sheet, and the four logo lockups (horizontal, stacked, gradient leaf icon, pale reverse) |
 | `03-mysportia-logos/` | MySportia mark and wordmark on white, black, navy + SVG |
 | `04-product-screens/` | 10 real production screens — marketplace, analytics, booking flow, calendar, CRM, finances, subscriptions, venue embed, onboarding |
 | `06-mysportia-brand-book/` | Key pages of the 73-page MySportia brand book, including `61-ICONS.svg` — the ~110-sport pictogram library |
@@ -897,6 +911,6 @@ Real product only. These screenshots are supplied as full-resolution files; the 
 
 ## Before delivering — the checklist
 
-Green foot rule on every slide including dark ones · EAG logo top-left and page number “nn | 22” everywhere · no cyan, no gradients, no pure-white ground · Satoshi/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 22 · slide 16 clearly awaiting the CTO · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · full-quality export, final file size stated.
+Gradient foot rule (`#2563FF → #00D4C8`) on every slide including dark ones · EAG logo top-left and page number “nn | 22” with Tech Teal separator everywhere · only the four brand gradients, at most one gradient element per slide · ground Soft White `#F6F8FA` · Poppins/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 22 · slide 16 clearly awaiting the CTO · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · at least half the slides carry an image, diagram or chart, never two consecutive all-text slides · full-quality export, final file size stated.
 
 Education AI Group Co., Ltd. · MySportia — presentation brief · Compiled 4 September 2026 from the EAG brand book, the 73-page MySportia brand book, the live product, and the company story archive. Source of truth on disk: `BOI/06-brand-assets/_claude-design/`. This file (`BRIEF.md`) is the complete brief — nothing else is required reading.

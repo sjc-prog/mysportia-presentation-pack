@@ -137,6 +137,13 @@ as **counts only**. Nobody is hired yet and the deck must not imply otherwise.
 
 ---
 
+## Approved capability statements
+
+| | |
+|---|---|
+| **Master merchant with Stripe and Omise** | Approved. State it as payment infrastructure readiness — venues onboard to digital payments in hours. Never tie it to a fee percentage; processing income stays exactly one sentence, as ordinary non-promoted income |
+| **User control** | Approved framing: a player's bookings, passes and memberships live in one account, under their control |
+
 ## Approved supporting figures — these and no others
 
 | | |

@@ -33,7 +33,7 @@ Footer block:
 Education AI Group Co., Ltd.
 September 2026
 ```
-The word **Thailand** takes the green. Nothing else on this slide is green except the foot rule.
+The word **Thailand** takes Tech Teal. Nothing else on this slide is green except the foot rule.
 
 ---
 
@@ -144,14 +144,16 @@ No decoration. A ghosted leaf at most.
 
 ```
 VENUE SIDE — the engine
-Online booking and schedules · payment integration (PromptPay, Thai QR, cards) ·
+Online booking and schedules · payments as a master merchant with Stripe and
+Omise (PromptPay, Thai QR, cards) ·
 automatic invoices, receipts and VAT · customer database and marketing ·
 memberships and packages · automated reminders · resource and staff management
 
 CONSUMER SIDE — the storefront
 Find any sport by location, date or type · instant booking and payment ·
 peer matchmaking by skill level · create a game, league or tournament ·
-rankings, leaderboards and results · vetted activities, in Thai and English
+rankings, leaderboards and results · your bookings, passes and memberships in
+one account, under your control · vetted activities, in Thai and English
 
 The full planned scope — two sides, one system.
 ```
@@ -216,7 +218,7 @@ Profiles and skill ratings, opponent and partner matching, leagues,
 tournaments and national rankings, activity feed and community,
 native mobile applications.
 ```
-Beneath, as a single line, the last three words in green:
+Beneath, as a single line, the last three words in Tech Teal:
 ```
 Discovery  →  Booking  →  Participation  →  Community  →  Progression
 ```
@@ -240,7 +242,8 @@ and one venue back-office screen (analytics or calendar). Framed in cards on the
 Venue management back office — bookings, scheduling, customer records,
 staff and reporting
 Marketplace listing and booking — live at mysportia.com
-Payment integration — PromptPay, Thai QR, cards
+Payment infrastructure — master merchant with Stripe and Omise;
+PromptPay, Thai QR, cards
 ```
 Status line, given weight:
 ```
@@ -257,7 +260,7 @@ system. The venues are fixed and running.
 ## 13 · To be developed — approximately 85%
 
 *Portal item 3.* **The most important content slide in the deck.** Eight functions, numbered,
-numerals in green.
+numerals in Tech Teal.
 
 ```
 1  Player feed and consumer experience
@@ -476,7 +479,7 @@ and among whom
 
 ## 22 · Close
 
-A quiet, confident close. The sport icon field at very low opacity behind. One line, large:
+A quiet, confident close. The sport icon field at very low opacity behind. One line, large, with **playing** carrying the Green Gradient:
 
 ```
 Get Thailand playing.
