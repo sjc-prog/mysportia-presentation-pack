@@ -6,10 +6,10 @@
 > The presenter's script for every slide is in `05-PRESENTER-SCRIPT.md` — it shows where the emphasis
 > falls, but **it is spoken text and never appears on a slide.**
 
-**22 slides. Landscape 16:9, 1920 × 1080.**
+**26 slides. Landscape 16:9, 1920 × 1080.**
 
-The portal specifies the order of its own required contents: items 2–6 land on slides 12–18 and
-item 7 (the team) on slide 20, in the portal's own order. Slides 1–11 are the setup the portal does
+The portal specifies the order of its own required contents: items 2–6 land on slides 12, 15, 19,
+20 and 21, and item 7 (the team) on slide 24, in the portal's own order. Slides 1–11 are the setup the portal does
 not prescribe, and they are where the story does its work.
 
 ### The three acts
@@ -17,8 +17,8 @@ not prescribe, and they are where the story does its work.
 | | Slides | |
 |---|---|---|
 | **I — The opportunity** | 2–8 | Why this exists. The problem, the founding insight, what MySportia is |
-| **II — The build** | 9–18 | What was built, what this project builds, and why the order matters |
-| **III — Thailand's return** | 19–22 | Team, investment, what the country gets |
+| **II — The build** | 9–21 | What was built, what this project builds, and why the order matters |
+| **III — Thailand's return** | 22–26 | Team, investment, what the country gets |
 
 ---
 
@@ -158,7 +158,7 @@ one account, under your control · vetted activities, in Thai and English
 The full planned scope — two sides, one system.
 ```
 The closing caption matters: this diagram shows the **full planned scope**, not current status —
-slides 12 and 13 divide it into built and to-be-built.
+slides 12 and 15 divide it into built and to-be-built.
 
 ---
 
@@ -257,7 +257,51 @@ system. The venues are fixed and running.
 
 ---
 
-## 13 · To be developed — approximately 85%
+## 13 · What a venue gets
+
+```
+More revenue
+The marketplace brings customers a venue could never reach on its own,
+and empty slots start to fill.
+
+Zero admin
+Bookings, payments, reminders, invoices and VAT run themselves.
+Staff coach instead of doing paperwork.
+
+Their own brand
+The venue's own storefront and booking pages. The venue owns its
+customer relationships — the platform stays in the background.
+
+The numbers to grow
+Which classes fill, who comes back, what earns. Decisions made on
+data instead of guesswork.
+```
+**Design direction.** Benefits, not features — four cards, each paired with a REAL back-office screen from assets/04-product-screens (calendar week view, CRM contacts, finances module, analytics dashboard). MySportia mark present on the slide; the product accent (pink) may carry the card titles. This slide answers “why do venues join” visually.
+
+---
+
+## 14 · What a player gets
+
+```
+Everything in one place
+Any sport, any venue, live availability — in Thai and English.
+
+Booked and paid in seconds
+PromptPay, Thai QR or card. Confirmed instantly.
+
+Control
+Bookings, passes and memberships in one account, in their pocket —
+not on a paper card behind a counter.
+
+Someone to play with — built under this project
+Matched to an opponent at their level, with leagues and rankings
+to play for.
+```
+**Design direction.** Phone-first showcase: the member app and the booking-flow screenshots in flat device frames, on a full-bleed MySportia navy panel with the EAG chrome (logo, page number, gradient foot rule) held on top in reverse. Pink as the product accent. This is the slide that should feel like the product’s own marketing — confident, modern, alive.
+
+---
+
+## 15 · To be developed — approximately 85%
 
 *Portal item 3.* **The most important content slide in the deck.** Eight functions, numbered,
 numerals in Tech Teal.
@@ -307,7 +351,7 @@ by the company's Thai engineering team, over twelve months.
 
 ---
 
-## 14 · ⭐ The 15 / 85 split
+## 16 · ⭐ The 15 / 85 split
 
 **One slide, one image. It must land in under two seconds.** Drawing instructions in
 `02-DESIGN-SYSTEM.md` §6.2.
@@ -327,7 +371,7 @@ Completeness measured against full planned product scope.
 
 ---
 
-## 15 · Why the two halves are one system
+## 17 · Why the two halves are one system
 
 ```
 Every venue that joins brings its existing members with it. They become users of
@@ -341,7 +385,29 @@ spend — and why the two halves are one system rather than two products.
 
 ---
 
-## 16 · Technology
+## 18 · One infrastructure. Many industries.
+
+```
+Nothing in the venue engine is sport-specific. Bookings, schedules,
+payments as a master merchant, memberships, customer records, automatic
+accounting and tax reporting — every service business in Thailand needs
+the same machine.
+
+MySportia     Sports and activity venues              LIVE — 32 pilot venues
+Kizzem        Venue and service booking, any industry BUILT
+PetFlow HQ    Pet-care businesses                     BUILT
+
+Further verticals follow the same model.
+
+This application funds the sports platform. The infrastructure it
+completes is the model for every vertical that follows — built once,
+in Thailand.
+```
+**Design direction.** Three rows with the supplied marks (assets/08-group-frameworks + the MySportia mark), industry and a status chip; the MySportia row carries the weight as the live proof. Worded strictly as extension — the promoted project is MySportia; the other frameworks are group products showing where the model goes next, never part of this application's scope.
+
+---
+
+## 19 · Technology
 
 *Portal item 4.* **Awaiting the CTO — and deliberately light.** One clean slide: a structured,
 labelled frame with the slots empty, so the stack drops in without redesign. Mark it clearly as
@@ -355,7 +421,7 @@ Device firmware and hardware integration toolchain · AI and automation tooling
 
 ---
 
-## 17 · The twelve-month development plan
+## 20 · The twelve-month development plan
 
 *Portal item 5.* A timeline across four quarters showing when each of the eight functions lands.
 Platform and backend foundations early, hardware and mobile mid, leagues and rankings later. Label
@@ -369,7 +435,7 @@ engineering team.
 
 ---
 
-## 18 · Customers and revenue
+## 21 · Customers and revenue
 
 *Portal item 6.*
 
@@ -401,7 +467,7 @@ disclosed, and is taxed normally.
 
 ---
 
-## 19 · Section opener — Act III
+## 22 · Section opener — Act III
 
 ```
 Thailand's return
@@ -410,7 +476,30 @@ Eyebrow: `ACT III — WHO WE ARE, AND WHAT THE COUNTRY GETS`
 
 ---
 
-## 20 · The team
+## 23 · The Thailand dividend
+
+```
+When a venue runs on MySportia, its whole revenue runs through one system.
+
+Every booking and every payment is recorded as it happens. Accounts are
+produced automatically — invoices, receipts and VAT, without a bookkeeper.
+
+Under this project, that extends to filing itself: automated tax reporting
+to the Revenue Department, prepared from the venue's own transaction
+records and submitted through the Department's digital channels.
+
+Today, most of this sector runs on cash. Revenue goes unrecorded, and tax
+goes uncollected. A connected venue is a visible venue — and the platform
+gives it the tools to grow: new customers from the marketplace, automated
+operations, more revenue to declare.
+
+A bigger, cleaner tax base — at no cost to the state.
+```
+**Design direction.** A left-to-right flow diagram carries the argument: Connected revenue → Automatic accounting → Direct filing to the Revenue Department → A growing, visible tax base. Vector, EAG chart colours, labels on the data. The closing line sets apart, large. No invented figures anywhere — the argument is the mechanism, not a number.
+
+---
+
+## 24 · The team
 
 *Portal item 7.* **Education AI Group has no employees today.** Every role below is a hire that
 happens after approval. State that plainly — it is a strength, because BOI requires the Thai IT
@@ -444,7 +533,7 @@ Based at the Bangkok development office.
 
 ---
 
-## 21 · Investment, employment and what Thailand gets
+## 25 · Investment, employment and what Thailand gets
 
 Two halves.
 
@@ -477,7 +566,7 @@ and among whom
 
 ---
 
-## 22 · Close
+## 26 · Close
 
 A quiet, confident close. The sport icon field at very low opacity behind. One line, large, with **playing** carrying the Green Gradient:
 

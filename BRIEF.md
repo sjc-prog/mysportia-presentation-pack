@@ -1,7 +1,7 @@
 # MySportia — Master Build Brief
-### The flagship presentation for Education AI Group · 22 slides · complete specification
+### The flagship presentation for Education AI Group · 26 slides · complete specification
 
-> **You are building one deliverable:** a 22-slide presentation, landscape 16:9 at 1920×1080,
+> **You are building one deliverable:** a 26-slide presentation, landscape 16:9 at 1920×1080,
 > print-ready PDF plus editable source. Build the whole deck in one pass — not a sample.
 > Every decision you need is in this document; **do not ask questions.**
 >
@@ -16,13 +16,13 @@
 
 # The brief
 
-You are building **one deliverable**: a 22-slide flagship presentation for Education AI Group’s product MySportia, landscape 16:9 at 1920×1080, delivered as a print-ready PDF plus the editable source. Build the whole deck in one pass — not a sample. Every decision you need is on this page; do not ask questions.
+You are building **one deliverable**: a 26-slide flagship presentation for Education AI Group’s product MySportia, landscape 16:9 at 1920×1080, delivered as a print-ready PDF plus the editable source. Build the whole deck in one pass — not a sample. Every decision you need is on this page; do not ask questions.
 
 ## Who reads it, and what stunning means here
 
 The audience is senior and governmental — reviewers, ministry stakeholders, serious partners. Not consumers, not a startup crowd. The bar: **a serious technology company’s flagship document.** Clear before clever. Confident before energetic. The company’s own brand voice applies: *“inevitable, not promotional.”*
 
-**Visual-first, not tech-heavy.** At least half the slides carry an image, diagram or chart — never two consecutive all-text slides. Slides 4, 6, 8, 11, 12, 14, 17 and 22 are visual by specification. One idea per slide. Numbers are the typography — 75%, 3 in 4, 15%, 85%, 32 — set huge and precise, they are the most persuasive marks in the document. Space is the luxury signal: 96px outer margins, and if a slide feels full, cut, never shrink. Three dark navy section openers give the deck its pulse. Nothing that could have come from a template: no gradient meshes, no icon soup, no stock athletes, no bullet dots, no thank-you slide.
+**Visual-first, not tech-heavy.** At least half the slides carry an image, diagram or chart — never two consecutive all-text slides. Slides 4, 6, 8, 11, 12, 13, 14, 16, 18, 20, 23 and 26 are visual by specification. All ten production screens should appear somewhere in the deck. One idea per slide. Numbers are the typography — 75%, 3 in 4, 15%, 85%, 32 — set huge and precise, they are the most persuasive marks in the document. Space is the luxury signal: 96px outer margins, and if a slide feels full, cut, never shrink. Three dark navy section openers give the deck its pulse. Nothing that could have come from a template: no gradient meshes, no icon soup, no stock athletes, no bullet dots, no thank-you slide.
 
 **No file-size limit.** Export at full quality — screenshots at full resolution, diagrams as vectors. The client compresses afterwards. State the final file size on delivery.
 
@@ -30,11 +30,11 @@ The audience is senior and governmental — reviewers, ministry stakeholders, se
 
 **Education AI Group is the mother brand. MySportia is a product inside it.** This went wrong once before — read this twice.
 
-EAG owns **every slide**: the ground, the header, the footer, the green foot rule, the page number, all typography, every chart. MySportia appears only **inside** that frame — as product screenshots, as its mark and wordmark where the product is named, and as its sport icon library.
+**Get the hierarchy right — the first build got it inverted.** Education AI Group is the holding company: it owns the **frame** — the small logo top-left, the page number, the gradient foot rule, and the legal identity on the cover and the close. **MySportia owns the content layer**: its wordmark leads the cover and the three act openers; its X mark sits on slides 7 and 12; its pink `#ED3163` is the product accent for product-side highlights (slides 7, 8, 12, 13, 14, 15); its screenshots, phone frames and ~110-sport icon library are the deck's imagery. A viewer should feel they are looking at a MySportia presentation, held in an Education AI Group frame — not an EAG document that occasionally mentions a product.
 
-**The test:** flick through the finished deck at speed. It must read as one Education AI Group document that contains a product — never as two brands taking turns. If a MySportia navy panel is bleeding to the slide edge and carrying a headline, it is wrong.
+**The test:** flick through the finished deck at speed. The frame says Education AI Group; everything inside it says MySportia. If MySportia is reduced to a word set in Poppins, the hierarchy has failed. If a MySportia navy panel is bleeding to the slide edge and carrying a headline, it is wrong.
 
-**The one exception:** a product-showcase slide may run a full-bleed MySportia navy panel *provided* the EAG header, footer, page number and gradient foot rule stay on top of it in the reverse treatment.
+**Product panels are encouraged, not an exception:** the showcase slides (12, 13, 14) may run full-bleed MySportia navy panels with phone frames and screenshots, *provided* the EAG chrome (logo, page number, gradient foot rule) stays on top in the reverse treatment. These are the slides that should feel like the product's own marketing — confident, modern, alive.
 
 > 🖼 *Reference image (supplied in the attached assets): Education AI Group horizontal logo — green leaf mark and navy wordmark*
 
@@ -113,7 +113,7 @@ Brand tone words: **Curious. Calm. Clever. Caring.**
 
 1920×1080 · 96px outer margin (112px on the cover) · 12 columns, 24px gutters · 8px baseline grid · title block at a fixed height so titles never jump.
 
-**1.** The gradient foot rule: a 6px bar across the full width of the bottom edge filled with the Blue gradient `#2563FF → #00D4C8`, left to right — the brand board’s own document device. Every slide, dark ones included. **2.** EAG horizontal logo top-left, 32px (`logo-horizontal-white-bg.png`; the pale reverse on dark slides). **3.** Page number “04 | 22” with the separator in Tech Teal. **4.** Optional ghosted gradient leaf (`logo-leaf-icon.png`) at 3–6% opacity bleeding off one corner — one per slide, never behind a table, chart or screenshot.
+**1.** The gradient foot rule: a 6px bar across the full width of the bottom edge filled with the Blue gradient `#2563FF → #00D4C8`, left to right — the brand board’s own document device. Every slide, dark ones included. **2.** EAG horizontal logo top-left, 32px (`logo-horizontal-white-bg.png`; the pale reverse on dark slides). **3.** Page number “04 | 26” with the separator in Tech Teal. **4.** Optional ghosted gradient leaf (`logo-leaf-icon.png`) at 3–6% opacity bleeding off one corner — one per slide, never behind a table, chart or screenshot.
 
 **Components:** white cards with 1px `#E2E8F0` borders, 16px radius, soft shadow, 32px padding. Numbered lists hang the numeral in the margin in Tech Teal, Poppins 600 — **no bullet dots anywhere in the deck.** Icons: thin single-weight line icons in the accent colours, as on the brand board. Charts: Soft White ground, 1px `#E2E8F0` gridlines, series order AI Green → Tech Teal → Future Blue → Deep Navy → Grey, labels on the data (a legend is a failure to design the chart), tabular numerals, THB in the header only, and **negative numbers in parentheses in Deep Navy — never red.**
 
@@ -132,7 +132,7 @@ The mark is an **X: a dark navy cross with three rounded bars laid across it —
 | UI navy | `#0F1B3D` | the deployed apps |
 | App ground | `#F5F6F7` | with `#E4E6E9` card borders |
 
-The pink, amber and green appear **only** inside screenshots, on the MySportia mark, or in the sport icon set — never as document accents. From the company’s own audit: `#32D882` and `#FBBB17` fail WCAG AA on white for normal text — fills and large display only. Where the navies meet, EAG Deep Navy `#0B132B` sets the type and MySportia `#233247` lives inside product imagery.
+The **wordmark and mark are supplied** (`assets/03-mysportia-logos/` — `mysportia-wordmark.svg`, `mysportia-mark.svg`, plus lockups on white/black/navy). The pink `#ED3163` is the **product accent**: card titles, chips, underlines and highlights on the product-side slides listed above — at most one accent per slide, never in financial charts, never on the EAG furniture. Amber and green stay inside screenshots, the mark and the icon set. From the company’s own audit: `#32D882` and `#FBBB17` fail WCAG AA on white for normal text — fills and large display only. Where the navies meet, EAG Deep Navy `#0B132B` sets the type and MySportia `#233247` lives inside product imagery.
 
 > 🖼 *Reference image (supplied in the attached assets): The MySportia X mark — navy cross with pink, amber and green bars*
 > The MySportia mark, from its brand book.
@@ -150,7 +150,7 @@ The pink, amber and green appear **only** inside screenshots, on the MySportia m
 
 **The 15/85 slide (14):** one horizontal bar across the full content width, split 15/85 — Tech Teal at 25% tint for “Built and running”, the Teal gradient `#00D4C8 → #22C55E` for “This project”, numbers set large above their segments, contents beneath. Not two equal columns, not a pie chart, and never flatter the 15%: the 85% dominates the slide because it dominates the project.
 
-# The 22 slides
+# The 26 slides
 
 Copy inside the green-ruled blocks is **set verbatim — never rewritten.** Design directions are binding. The presenter script under each slide shows where the spoken emphasis falls; it is for the presenter and never appears on a slide.
 
@@ -366,7 +366,7 @@ The full planned scope — two sides, one system.
 ```
 
 **Design direction:** 
-A diagram earns its place here: two columns feeding one platform bar. Vector, EAG chart colours, labels on the data, no legend. Keep it calm — this is the one architecture visual in the deck. The closing caption is required: this diagram shows the **full planned scope**, not current status — slides 12 and 13 divide it into built and to-be-built.
+A diagram earns its place here: two columns feeding one platform bar. Vector, EAG chart colours, labels on the data, no legend. Keep it calm — this is the one architecture visual in the deck. The closing caption is required: this diagram shows the **full planned scope**, not current status — slides 12 and 15 divide it into built and to-be-built.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -511,6 +511,80 @@ Measured against the full product we’ve planned, this is roughly **fifteen per
 ---
 
 ### Slide 13 · ACT II · THE BUILD
+## What a venue gets
+
+**SET VERBATIM — this is the slide copy, never rewritten:**
+```
+More revenue
+The marketplace brings customers a venue could never reach on its own,
+and empty slots start to fill.
+
+Zero admin
+Bookings, payments, reminders, invoices and VAT run themselves.
+Staff coach instead of doing paperwork.
+
+Their own brand
+The venue's own storefront and booking pages. The venue owns its
+customer relationships — the platform stays in the background.
+
+The numbers to grow
+Which classes fill, who comes back, what earns. Decisions made on
+data instead of guesswork.
+```
+
+**Design direction:** Benefits, not features — four cards, each paired with a REAL back-office screen from assets/04-product-screens (calendar week view, CRM contacts, finances module, analytics dashboard). MySportia mark present on the slide; the product accent (pink) may carry the card titles. This slide answers “why do venues join” visually.
+
+**Presenter script — spoken by Justin, never set on the slide:**
+
+So what does a venue actually get? Four things.
+
+**More revenue** — the marketplace brings customers they could never reach, and empty slots start to fill.
+
+**Zero admin** — bookings, payments, reminders, invoices, VAT — it runs itself. Staff coach instead of doing paperwork.
+
+**Their own brand** — their storefront, their customer relationships. We stay in the background.
+
+And **the numbers to grow** — which classes fill, who comes back, what earns.
+
+That's why venues join. And it's why they stay.
+
+---
+
+### Slide 14 · ACT II · THE BUILD
+## What a player gets
+
+**SET VERBATIM — this is the slide copy, never rewritten:**
+```
+Everything in one place
+Any sport, any venue, live availability — in Thai and English.
+
+Booked and paid in seconds
+PromptPay, Thai QR or card. Confirmed instantly.
+
+Control
+Bookings, passes and memberships in one account, in their pocket —
+not on a paper card behind a counter.
+
+Someone to play with — built under this project
+Matched to an opponent at their level, with leagues and rankings
+to play for.
+```
+
+**Design direction:** Phone-first showcase: the member app and the booking-flow screenshots in flat device frames, on a full-bleed MySportia navy panel with the EAG chrome (logo, page number, gradient foot rule) held on top in reverse. Pink as the product accent. This is the slide that should feel like the product’s own marketing — confident, modern, alive.
+
+**Presenter script — spoken by Justin, never set on the slide:**
+
+And the player?
+
+**Everything in one place** — any sport, any venue, live availability. **Booked and paid in seconds** — PromptPay, Thai QR, a card. **Control** — bookings, passes, memberships in one account in their pocket.
+
+And with this project: **someone to play with** — matched to their level, with leagues and rankings to play for.
+
+That's what turns one booking into a habit.
+
+---
+
+### Slide 15 · ACT II · THE BUILD
 ## To be developed — approximately 85%
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -570,7 +644,7 @@ All of it built **in Thailand, by our Thai engineering team, in twelve months**.
 
 ---
 
-### Slide 14 · ACT II · THE BUILD
+### Slide 16 · ACT II · THE BUILD
 ## The 15 / 85 split ⭐
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -598,7 +672,7 @@ The fifteen percent is what we’ve shown you — built, running, taking payment
 
 ---
 
-### Slide 15 · ACT II · THE BUILD
+### Slide 17 · ACT II · THE BUILD
 ## Why the two halves are one system
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -623,7 +697,42 @@ That’s why the consumer side reaches national scale **without national marketi
 
 ---
 
-### Slide 16 · ACT II · THE BUILD
+### Slide 18 · ACT II · THE BUILD
+## One infrastructure. Many industries.
+
+**SET VERBATIM — this is the slide copy, never rewritten:**
+```
+Nothing in the venue engine is sport-specific. Bookings, schedules,
+payments as a master merchant, memberships, customer records, automatic
+accounting and tax reporting — every service business in Thailand needs
+the same machine.
+
+MySportia     Sports and activity venues              LIVE — 32 pilot venues
+Kizzem        Venue and service booking, any industry BUILT
+PetFlow HQ    Pet-care businesses                     BUILT
+
+Further verticals follow the same model.
+
+This application funds the sports platform. The infrastructure it
+completes is the model for every vertical that follows — built once,
+in Thailand.
+```
+
+**Design direction:** Three rows with the supplied marks (assets/08-group-frameworks + the MySportia mark), industry and a status chip; the MySportia row carries the weight as the live proof. Worded strictly as extension — the promoted project is MySportia; the other frameworks are group products showing where the model goes next, never part of this application's scope.
+
+**Presenter script — spoken by Justin, never set on the slide:**
+
+One more thing about the infrastructure, because it's worth seeing where this goes.
+
+Nothing in the venue engine is sport-specific. Bookings, schedules, master-merchant payments, memberships, automatic accounting, tax reporting — **every service business in Thailand needs the same machine.**
+
+MySportia is the live proof, in sport. And within the group, the same model is already built for other industries — **Kizzem** for venue and service booking generally, **PetFlow HQ** for pet care. More follow.
+
+This application funds the sports platform. But the infrastructure it completes is **a model Thailand keeps** — built once, here.
+
+---
+
+### Slide 19 · ACT II · THE BUILD
 ## Technology
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -644,7 +753,7 @@ What matters in this room is simpler: it’s a modern cloud platform, it already
 
 ---
 
-### Slide 17 · ACT II · THE BUILD
+### Slide 20 · ACT II · THE BUILD
 ## The twelve-month development plan
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -666,7 +775,7 @@ One team, one office in Bangkok, one deadline. At the end of it: **a system read
 
 ---
 
-### Slide 18 · ACT II · THE BUILD
+### Slide 21 · ACT II · THE BUILD
 ## Customers and revenue
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -706,7 +815,7 @@ There’s also payment processing income when venues use our integrated payments
 
 ---
 
-### Slide 19 · ACT III · THAILAND’S RETURN
+### Slide 22 · ACT III · THAILAND’S RETURN
 ## Section opener — Thailand’s return
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -723,7 +832,45 @@ Last act. Who’s building this — and what Thailand gets back.
 
 ---
 
-### Slide 20 · ACT III · THAILAND’S RETURN
+### Slide 23 · ACT III · THAILAND’S RETURN
+## The Thailand dividend
+
+**SET VERBATIM — this is the slide copy, never rewritten:**
+```
+When a venue runs on MySportia, its whole revenue runs through one system.
+
+Every booking and every payment is recorded as it happens. Accounts are
+produced automatically — invoices, receipts and VAT, without a bookkeeper.
+
+Under this project, that extends to filing itself: automated tax reporting
+to the Revenue Department, prepared from the venue's own transaction
+records and submitted through the Department's digital channels.
+
+Today, most of this sector runs on cash. Revenue goes unrecorded, and tax
+goes uncollected. A connected venue is a visible venue — and the platform
+gives it the tools to grow: new customers from the marketplace, automated
+operations, more revenue to declare.
+
+A bigger, cleaner tax base — at no cost to the state.
+```
+
+**Design direction:** A left-to-right flow diagram carries the argument: Connected revenue → Automatic accounting → Direct filing to the Revenue Department → A growing, visible tax base. Vector, EAG chart colours, labels on the data. The closing line sets apart, large. No invented figures anywhere — the argument is the mechanism, not a number.
+
+**Presenter script — spoken by Justin, never set on the slide:**
+
+Let me spell out what this means for Thailand, because it's bigger than sport.
+
+When a venue runs on MySportia, its **whole revenue runs through one system**. Every booking, every payment, recorded as it happens. Accounts produced automatically — invoices, receipts, VAT — without a bookkeeper.
+
+And under this project, filing itself: returns prepared from the venue's own records, **submitted through the Revenue Department's digital channels.**
+
+Today most of this sector is cash. Revenue goes unrecorded, tax goes uncollected. A connected venue is a **visible** venue — and we don't just make them visible, we make them **bigger**: new customers from the marketplace, automated operations, more revenue to declare.
+
+**A bigger, cleaner tax base — at no cost to the state.**
+
+---
+
+### Slide 24 · ACT III · THAILAND’S RETURN
 ## The team
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -767,7 +914,7 @@ Around us: a Chief Operating Officer, a Project Manager, and a Head of Sales —
 
 ---
 
-### Slide 21 · ACT III · THAILAND’S RETURN
+### Slide 25 · ACT III · THAILAND’S RETURN
 ## Investment, employment and what Thailand gets
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -808,7 +955,7 @@ And the return — because this is the reason the project deserves promotion:
 
 ---
 
-### Slide 22 · ACT III · THAILAND’S RETURN
+### Slide 26 · ACT III · THAILAND’S RETURN
 ## Close
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
@@ -858,6 +1005,8 @@ Two of these cost real money: BOI’s own rule for this activity (Por.12/2566 cl
 | Thai engineers, Y1 / Y2 / Y3 | **4 / 8 / 12** |
 | Licence bands, THB/month | **1,000 · 2,000 · 5,000 · from 10,000** |
 | Payment infrastructure | **Master merchant with Stripe and Omise** — capability statement, never tied to a fee percentage |
+| Group frameworks | **Kizzem** (venue and service booking, any industry) and **PetFlow HQ** (pet care) — status **BUILT**, named on slide 18 only, always worded as where the model extends, never as part of this application's scope. No revenue or customer figures for either. Other group products are never named |
+| The Thailand dividend | Approved argument: connected revenue → automatic accounting → direct filing to the Revenue Department (built under this project) → a bigger, cleaner tax base. Never claim a specific uncollected-tax figure, never "Thailand is missing most of the money" — the mechanism is the argument |
 | Sedentary Thai adults | **75%+** |
 | Stop playing after education | **3 in 4** |
 | Sports tourists / revenue | **2.5M · €423M+** |
@@ -877,7 +1026,7 @@ Only **Justin Cohen** (CEO, authorised director) and **Dmytro Bodlev** (CTO) are
 
 ## Known gaps
 
-The technology stack is awaiting the CTO — slide 16 is a labelled empty frame marked as awaiting input. There is no hardware photography — draw a neutral schematic if one is needed; never stock imagery of someone else’s kiosk.
+The technology stack is awaiting the CTO — slide 19 is a labelled empty frame marked as awaiting input. There is no hardware photography — draw a neutral schematic if one is needed; never stock imagery of someone else’s kiosk.
 
 # The product, live — visual reference
 
@@ -908,9 +1057,10 @@ Real product only. These screenshots are supplied as full-resolution files; the 
 | `04-product-screens/` | 10 real production screens — marketplace, analytics, booking flow, calendar, CRM, finances, subscriptions, venue embed, onboarding |
 | `06-mysportia-brand-book/` | Key pages of the 73-page MySportia brand book, including `61-ICONS.svg` — the ~110-sport pictogram library |
 | `07-live-screenshots/` | mysportia.com live — desktop with map, full page, mobile viewport, phone booking crop |
+| `08-group-frameworks/` | Kizzem and PetFlow HQ marks, for slide 18 |
 
 ## Before delivering — the checklist
 
-Gradient foot rule (`#2563FF → #00D4C8`) on every slide including dark ones · EAG logo top-left and page number “nn | 22” with Tech Teal separator everywhere · only the four brand gradients, at most one gradient element per slide · ground Soft White `#F6F8FA` · Poppins/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 22 · slide 16 clearly awaiting the CTO · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · at least half the slides carry an image, diagram or chart, never two consecutive all-text slides · full-quality export, final file size stated.
+Gradient foot rule (`#2563FF → #00D4C8`) on every slide including dark ones · EAG logo top-left and page number “nn | 26” with Tech Teal separator everywhere · only the four brand gradients, at most one gradient element per slide · ground Soft White `#F6F8FA` · Poppins/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 26 · MySportia wordmark on the cover and act openers, its mark on 7 and 12, its pink carrying the product-side highlights · all ten production screens placed · slide 19 clearly awaiting the CTO · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · at least half the slides carry an image, diagram or chart, never two consecutive all-text slides · full-quality export, final file size stated.
 
 Education AI Group Co., Ltd. · MySportia — presentation brief · Compiled 4 September 2026 from the EAG brand book, the 73-page MySportia brand book, the live product, and the company story archive. Source of truth on disk: `BOI/06-brand-assets/_claude-design/`. This file (`BRIEF.md`) is the complete brief — nothing else is required reading.

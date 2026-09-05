@@ -49,15 +49,15 @@ This is filed by EAG, on EAG's behalf, to a government reviewer assessing EAG. M
 
 | | Owns | Never |
 |---|---|---|
-| **Education AI Group** | Every slide's chrome: ground, header, footer, foot rule, page number, headline colour, all typography, section dividers, charts | Is never reduced to a small logo in the corner of a MySportia-branded page |
-| **MySportia** | Only what sits inside the frame: product screenshots, the product wordmark where the product is named | Never sets the slide background, never supplies a headline colour, never replaces the EAG header |
+| **Education AI Group** | The frame: small logo top-left, page number, gradient foot rule, and the legal identity on cover and close | Never carries the visual weight of the content — it is the holding company, not the subject |
+| **MySportia** | The content layer: wordmark on the cover and act openers, the X mark on slides 7 and 12, pink product-accent highlights on product-side slides, phone frames, screenshots and the icon library | Never reduced to a word set in the heading face — the product's own identity must be visible |
 
-**The test.** Flick through at speed. It must read as one Education AI Group document that contains a
-product — not as two brands taking turns.
+**The test.** Flick through at speed. The frame says Education AI Group; everything inside it says
+MySportia. If the product's mark never appears, the hierarchy has failed.
 
-**One permitted exception.** A product-showcase slide may run a full-bleed MySportia navy panel
-*provided* the EAG header, footer and page number stay on top of it in the reverse treatment. That is
-the frame holding, not the frame being replaced.
+**Product panels are encouraged on the showcase slides (12–14):** full-bleed MySportia navy with
+phone frames and screenshots, the EAG chrome held on top in reverse. Those slides should feel like
+the product's own marketing — confident, modern, alive — inside the group's frame.
 
 ---
 
@@ -141,7 +141,7 @@ Body line-height **1.55**. Headline line-height **1.12**. Measure ≤ **72 chara
 2. **Header.** EAG horizontal logo top-left, 32px high (`logo-horizontal-white-bg.png`; the pale
    reverse on dark slides). Right-hand slot: `MYSPORTIA · EDUCATION AI GROUP` in 10pt Inter,
    `#94A3B8`, uppercase, wide-tracked.
-3. **Page number.** Inter 11pt, format `04 | 22`, separator in Tech Teal.
+3. **Page number.** Inter 11pt, format `04 | 26`, separator in Tech Teal.
 4. **Ghosted leaf watermark.** The gradient leaf (`logo-leaf-icon.png`) at 3–6% opacity, large,
    bleeding off one corner. One per slide maximum; never behind a table, chart or screenshot.
 
@@ -308,13 +308,13 @@ compression step exists. That is the client's step, not yours.)*
 # Part eight — checklist before delivering
 
 - [ ] Gradient foot rule (`#2563FF → #00D4C8`) on **every** slide, including dark ones
-- [ ] EAG logo top-left on every slide; page number `nn | 22` with a Tech Teal separator
+- [ ] EAG logo top-left on every slide; page number `nn | 26` with a Tech Teal separator
 - [ ] Only the four brand gradients, at most one gradient element per slide; ground is Soft White `#F6F8FA`, never pure white
 - [ ] Poppins headings, Inter body — no serif anywhere
 - [ ] Every number matches `04-FACTS.md` exactly
 - [ ] Year 1 loss in parentheses, in Navy, not red
 - [ ] No banned word anywhere, **including in captions, chart labels and slide notes**
-- [ ] MySportia pink appears only inside screenshots and the wordmark
+- [ ] MySportia wordmark on the cover and act openers; the mark on 7 and 12; pink as the product accent on product-side slides only
 - [ ] At least half the slides carry an image, diagram or chart; never two consecutive all-text slides
 - [ ] Real screenshots used; no invented UI
 - [ ] Technology slide clearly marked as awaiting the CTO
@@ -323,4 +323,4 @@ compression step exists. That is the client's step, not yours.)*
 - [ ] Slide 9 ("the order this had to be built in") reads as the turn of the argument, not as filler
 - [ ] Read it once at 25% zoom — the shape of each slide should be legible with no text at all
 - [ ] Full-quality export, and the final file size stated on delivery
-- [ ] The sport icon library has been used at least once — it is the strongest visual asset available
+- [ ] The sport icon library used on slides 6 and 26; all ten production screens placed somewhere in the deck

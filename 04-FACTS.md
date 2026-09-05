@@ -144,6 +144,25 @@ as **counts only**. Nobody is hired yet and the deck must not imply otherwise.
 | **Master merchant with Stripe and Omise** | Approved. State it as payment infrastructure readiness — venues onboard to digital payments in hours. Never tie it to a fee percentage; processing income stays exactly one sentence, as ordinary non-promoted income |
 | **User control** | Approved framing: a player's bookings, passes and memberships live in one account, under their control |
 
+## Group frameworks — slide 18 only
+
+| Framework | Industry | Status | |
+|---|---|---|---|
+| MySportia | Sports and activity venues | **LIVE — 32 pilot venues** | the subject of this application |
+| Kizzem | Venue and service booking, any industry | **BUILT** | group product |
+| PetFlow HQ | Pet-care businesses | **BUILT** | group product |
+
+Always worded as **where the model extends** — never as part of this application's scope. No revenue,
+customer or venue figures for Kizzem or PetFlow HQ. No other group product is ever named.
+
+## The Thailand dividend — approved argument
+
+Connected revenue → automatic accounting → direct filing to the Revenue Department (**built under
+this project**) → a bigger, cleaner tax base at no cost to the state. Plus: the marketplace brings
+venues new customers and the tools to grow, so the base grows as well as cleans. **Never** claim a
+specific uncollected-tax figure, and never phrase it as "Thailand is missing most of the money" —
+the mechanism is the argument, not an invented number.
+
 ## Approved supporting figures — these and no others
 
 | | |

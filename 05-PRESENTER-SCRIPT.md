@@ -206,7 +206,35 @@ venues are fixed. The plumbing works. Which is exactly what makes the next slide
 
 ---
 
-## 13 · To be developed — the eight functions
+## 13 · What a venue gets
+
+So what does a venue actually get? Four things.
+
+**More revenue** — the marketplace brings customers they could never reach, and empty slots start to fill.
+
+**Zero admin** — bookings, payments, reminders, invoices, VAT — it runs itself. Staff coach instead of doing paperwork.
+
+**Their own brand** — their storefront, their customer relationships. We stay in the background.
+
+And **the numbers to grow** — which classes fill, who comes back, what earns.
+
+That's why venues join. And it's why they stay.
+
+---
+
+## 14 · What a player gets
+
+And the player?
+
+**Everything in one place** — any sport, any venue, live availability. **Booked and paid in seconds** — PromptPay, Thai QR, a card. **Control** — bookings, passes, memberships in one account in their pocket.
+
+And with this project: **someone to play with** — matched to their level, with leagues and rankings to play for.
+
+That's what turns one booking into a habit.
+
+---
+
+## 15 · To be developed — the eight functions
 
 This is what we build next. Eight functions — and **none of them exists in the system today**.
 
@@ -225,7 +253,7 @@ All of it built **in Thailand, by our Thai engineering team, in twelve months**.
 
 ---
 
-## 14 · The 15 / 85 split
+## 16 · The 15 / 85 split
 
 One picture, so the proportions are clear.
 
@@ -238,7 +266,7 @@ percent is this project.
 
 ---
 
-## 15 · Why the two halves are one system
+## 17 · Why the two halves are one system
 
 One more thing about how this grows, because it's the part people miss.
 
@@ -251,7 +279,19 @@ side carries its own demand in with it. And it's why this is one system, not two
 
 ---
 
-## 16 · Technology
+## 18 · One infrastructure. Many industries.
+
+One more thing about the infrastructure, because it's worth seeing where this goes.
+
+Nothing in the venue engine is sport-specific. Bookings, schedules, master-merchant payments, memberships, automatic accounting, tax reporting — **every service business in Thailand needs the same machine.**
+
+MySportia is the live proof, in sport. And within the group, the same model is already built for other industries — **Kizzem** for venue and service booking generally, **PetFlow HQ** for pet care. More follow.
+
+This application funds the sports platform. But the infrastructure it completes is **a model Thailand keeps** — built once, here.
+
+---
+
+## 19 · Technology
 
 I won't take you deep into the technology today — the full stack is documented for anyone who wants
 it, and our Chief Technology Officer will happily go as deep as you like.
@@ -262,7 +302,7 @@ Thai team we're hiring**.
 
 ---
 
-## 17 · The twelve-month plan
+## 20 · The twelve-month plan
 
 The build runs twelve months, in four quarters.
 
@@ -275,7 +315,7 @@ national scale**.
 
 ---
 
-## 18 · Customers and revenue
+## 21 · Customers and revenue
 
 Who pays, and how. It's deliberately simple.
 
@@ -292,13 +332,27 @@ fully disclosed, taxed normally. But the **licence is the business**.
 
 ---
 
-## 19 · Act III opener — Thailand's return
+## 22 · Act III opener — Thailand's return
 
 Last act. Who's building this — and what Thailand gets back.
 
 ---
 
-## 20 · The team
+## 23 · The Thailand dividend
+
+Let me spell out what this means for Thailand, because it's bigger than sport.
+
+When a venue runs on MySportia, its **whole revenue runs through one system**. Every booking, every payment, recorded as it happens. Accounts produced automatically — invoices, receipts, VAT — without a bookkeeper.
+
+And under this project, filing itself: returns prepared from the venue's own records, **submitted through the Revenue Department's digital channels.**
+
+Today most of this sector is cash. Revenue goes unrecorded, tax goes uncollected. A connected venue is a **visible** venue — and we don't just make them visible, we make them **bigger**: new customers from the marketplace, automated operations, more revenue to declare.
+
+**A bigger, cleaner tax base — at no cost to the state.**
+
+---
+
+## 24 · The team
 
 Education AI Group has **no employees today** — and that's deliberate. Every role you see here is a
 job we create after approval. This project doesn't shift existing jobs around; it creates new ones.
@@ -317,7 +371,7 @@ Project management, systems analysis, development, design, testing. All new hire
 
 ---
 
-## 21 · Investment, employment and what Thailand gets
+## 25 · Investment, employment and what Thailand gets
 
 The commitment: **five — point six five — million baht** of investment. Thai IT salaries of **just
 over two million baht in year one** — the requirement is one and a half; the exact figure is on the
@@ -327,15 +381,15 @@ completion. Two sites — Ko Samui and Bangkok.
 And the return — because this is the reason the project deserves promotion:
 
 **Participation goes up**, against that seventy-five percent sedentary rate. **The small sports
-become visible** — carried by the infrastructure at no extra cost. **Venues come into the digital
-tax system** — reporting straight to the Revenue Department, at no cost to the state. It supports
+become visible** — carried by the infrastructure at no extra cost. **The tax dividend** — you've
+just seen how that works. It supports
 the government's own sports tourism campaigns and the National Physical Activity Strategy. It
 creates **skilled Thai technology employment**. And it produces something Thailand has never had:
 **real participation data** — which sports are growing, where, and among whom.
 
 ---
 
-## 22 · Close
+## 26 · Close
 
 Three in four people stop playing. Not because they want to — because nothing connects them to the
 places where they could.
