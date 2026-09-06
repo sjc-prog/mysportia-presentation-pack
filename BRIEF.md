@@ -737,9 +737,21 @@ This application funds the sports platform. But the infrastructure it completes 
 
 **SET VERBATIM — this is the slide copy, never rewritten:**
 ```
-Languages · Frontend framework · Backend framework · Database ·
-Hosting and infrastructure · CI/CD · Monitoring · Mobile (iOS / Android) ·
-Device firmware and hardware integration toolchain · AI and automation tooling
+LANGUAGES                          TypeScript · JavaScript (Node.js 20)
+FRONTEND FRAMEWORK                 React 19 · Next.js 16 · Tailwind CSS 4
+BACKEND FRAMEWORK                  Node.js 20 on Firebase Cloud Functions · Express REST APIs
+DATABASE                           Cloud Firestore · Realtime Database · Cloud Storage · Algolia search
+HOSTING AND INFRASTRUCTURE         Google Cloud (Firebase) · separate dev / staging / production
+                                   projects · Cloudinary media
+CI/CD                              GitHub Actions — pull-request gating, staged pipeline,
+                                   manual production approval
+MONITORING                         Sentry error monitoring · Google Cloud logging
+MOBILE (iOS / ANDROID)             React Native — native apps for players and venue operators
+                                   [THIS PROJECT]
+DEVICE FIRMWARE & HARDWARE         Embedded Android (Rockchip-class) · printers, scanners,
+INTEGRATION TOOLCHAIN              QR validation · central device management  [THIS PROJECT]
+AI AND AUTOMATION TOOLING          Anthropic Claude API — AI-assisted venue onboarding
+                                   [THIS PROJECT]
 ```
 
 **Design direction:** 
@@ -1026,7 +1038,7 @@ Only **Justin Cohen** (CEO, authorised director) and **Dmytro Bodlev** (CTO) are
 
 ## Known gaps
 
-The technology stack is awaiting the CTO — slide 19 is a labelled empty frame marked as awaiting input. There is no hardware photography — draw a neutral schematic if one is needed; never stock imagery of someone else’s kiosk.
+~~The technology stack gap is closed~~ — slide 19 is filled from the production codebase (CTO to glance before filing). There is no hardware photography — draw a neutral schematic if one is needed; never stock imagery of someone else’s kiosk.
 
 # The product, live — visual reference
 
@@ -1061,6 +1073,6 @@ Real product only. These screenshots are supplied as full-resolution files; the 
 
 ## Before delivering — the checklist
 
-Gradient foot rule (`#2563FF → #00D4C8`) on every slide including dark ones · EAG logo top-left and page number “nn | 26” with Tech Teal separator everywhere · only the four brand gradients, at most one gradient element per slide · ground Soft White `#F6F8FA` · Poppins/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 26 · MySportia wordmark on the cover and act openers, its mark on 7 and 12, its pink carrying the product-side highlights · all ten production screens placed · slide 19 clearly awaiting the CTO · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · at least half the slides carry an image, diagram or chart, never two consecutive all-text slides · full-quality export, final file size stated.
+Gradient foot rule (`#2563FF → #00D4C8`) on every slide including dark ones · EAG logo top-left and page number “nn | 26” with Tech Teal separator everywhere · only the four brand gradients, at most one gradient element per slide · ground Soft White `#F6F8FA` · Poppins/Inter only · every number matches this page exactly · no banned word anywhere including labels and notes · MySportia colour only inside product assets · real screenshots, no invented UI · icon library used on slides 6 and 26 · MySportia wordmark on the cover and act openers, its mark on 7 and 12, its pink carrying the product-side highlights · all ten production screens placed · slide 19 filled with the production stack and status chips · only two people named · no bullet dots · at 25% zoom every slide’s shape reads with no text · at least half the slides carry an image, diagram or chart, never two consecutive all-text slides · full-quality export, final file size stated.
 
 Education AI Group Co., Ltd. · MySportia — presentation brief · Compiled 4 September 2026 from the EAG brand book, the 73-page MySportia brand book, the live product, and the company story archive. Source of truth on disk: `BOI/06-brand-assets/_claude-design/`. This file (`BRIEF.md`) is the complete brief — nothing else is required reading.

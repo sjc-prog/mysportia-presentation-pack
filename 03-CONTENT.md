@@ -409,14 +409,25 @@ in Thailand.
 
 ## 19 · Technology
 
-*Portal item 4.* **Awaiting the CTO — and deliberately light.** One clean slide: a structured,
-labelled frame with the slots empty, so the stack drops in without redesign. Mark it clearly as
-awaiting input so it can never be sent half-filled. No architecture diagrams, no jargon.
+*Portal item 4.* **Filled — the real stack, compiled from the production codebase (2026-09-06).**
+The placeholder is retired — the stack is real, compiled from the production codebase. Same ten-card grid, now filled: card title as before, contents in 16px Inter, and a status chip at the foot of every card replacing "AWAITING INPUT" — **IN PRODUCTION** (Tech Teal tint) on the first seven, **THIS PROJECT** (Teal-gradient tint) on Mobile, Device firmware and AI tooling. The top-right pill becomes "COMPILED FROM THE PRODUCTION CODEBASE". Keep it calm — names, not logos; no stock imagery on this slide.
 
 ```
-Languages · Frontend framework · Backend framework · Database ·
-Hosting and infrastructure · CI/CD · Monitoring · Mobile (iOS / Android) ·
-Device firmware and hardware integration toolchain · AI and automation tooling
+LANGUAGES                          TypeScript · JavaScript (Node.js 20)
+FRONTEND FRAMEWORK                 React 19 · Next.js 16 · Tailwind CSS 4
+BACKEND FRAMEWORK                  Node.js 20 on Firebase Cloud Functions · Express REST APIs
+DATABASE                           Cloud Firestore · Realtime Database · Cloud Storage · Algolia search
+HOSTING AND INFRASTRUCTURE         Google Cloud (Firebase) · separate dev / staging / production
+                                   projects · Cloudinary media
+CI/CD                              GitHub Actions — pull-request gating, staged pipeline,
+                                   manual production approval
+MONITORING                         Sentry error monitoring · Google Cloud logging
+MOBILE (iOS / ANDROID)             React Native — native apps for players and venue operators
+                                   [THIS PROJECT]
+DEVICE FIRMWARE & HARDWARE         Embedded Android (Rockchip-class) · printers, scanners,
+INTEGRATION TOOLCHAIN              QR validation · central device management  [THIS PROJECT]
+AI AND AUTOMATION TOOLING          Anthropic Claude API — AI-assisted venue onboarding
+                                   [THIS PROJECT]
 ```
 
 ---

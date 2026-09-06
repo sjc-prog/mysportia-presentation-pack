@@ -198,7 +198,7 @@ with a dedicated tool. State the final file size on delivery.
 
 | | Status |
 |---|---|
-| **Technology stack** | Awaiting the CTO. Slide 12 is a structured placeholder, clearly marked |
+| **Technology stack** | ✅ Filled 2026-09-06 from the production codebase — slide 19; CTO glances before filing |
 | **Hardware photography** | Only supplier PDF quotations are on file (`assets/05-hardware/`). No clean product images. If a hardware visual is needed, draw a neutral schematic — do not source stock photography of someone else's kiosk |
 
 If anything else is missing, leave a clearly marked slot. **Never fill a gap with a plausible
