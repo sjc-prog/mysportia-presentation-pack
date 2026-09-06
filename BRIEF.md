@@ -755,7 +755,7 @@ AI AND AUTOMATION TOOLING          Anthropic Claude API — AI-assisted venue on
 ```
 
 **Design direction:** 
-**Awaiting the CTO — and deliberately light.** Build a clean labelled frame with the ten slots empty, clearly marked “awaiting input” so it can never be sent half-filled. No architecture diagrams, no jargon. One calm slide.
+The placeholder is retired — the stack is real, compiled from the production codebase. Same ten-card grid, now filled: card title as before, contents in 16px Inter, and a status chip at the foot of every card replacing “AWAITING INPUT” — **IN PRODUCTION** (Tech Teal tint) on the first seven, **THIS PROJECT** (Teal-gradient tint) on Mobile, Device firmware and AI tooling. The top-right pill becomes “COMPILED FROM THE PRODUCTION CODEBASE”. Keep it calm — names, not logos; no stock imagery on this slide.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
