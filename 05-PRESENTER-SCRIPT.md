@@ -194,7 +194,7 @@ This is the marketplace, live at mysportia.com — real venues on a real map. Th
 on a phone — pick a trainer, pick a time, pay. And this is the back office a venue manager sees
 every morning.
 
-It's running today at **thirty-two pilot venues in Thailand**, taking real bookings and real
+It's running today at **twenty pilot venues in Thailand**, taking real bookings and real
 payments, right now.
 
 And underneath it sits real payment infrastructure: we operate as a **master merchant with Stripe
@@ -247,7 +247,7 @@ returns prepared from its own transaction records and submitted through the Reve
 digital channels, so a venue enters the tax system without doing the paperwork. Venue hardware —
 access gates, kiosks, point of sale, QR entry. Native mobile apps for players and venue operators.
 AI-assisted onboarding, so a venue joins in hours, not weeks. And the **backend for national
-scale** — thousands of venues, not thirty-two.
+scale** — thousands of venues, not twenty.
 
 All of it built **in Thailand, by our Thai engineering team, in twelve months**.
 
@@ -417,7 +417,7 @@ Thank you. I'm happy to take questions — and if you'd like, the live system is
 | Likely question | Anchor |
 |---|---|
 | "Is this just a booking app?" | No — booking is phase two, and it's done. This project is participation: matching, leagues, rankings, community. The half that changes behaviour |
-| "What exists today?" | Roughly 15% of the planned system, live at 32 pilot venues, taking real bookings and payments. Happy to show it now |
+| "What exists today?" | Roughly 15% of the planned system, live at 20 pilot venues, taking real bookings and payments. Happy to show it now |
 | "Who builds it?" | Our Thai engineering team in Bangkok — four, then eight, then twelve. All new employment created after approval |
 | "How do you make money?" | A fixed monthly software licence by venue size. It never moves with the venue's revenue |
 | "Why will venues join?" | Because the system runs their whole business — and every venue that joins brings its members in with it |

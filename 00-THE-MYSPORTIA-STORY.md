@@ -109,7 +109,7 @@ This is the point. The 15/85 split is not an arbitrary percentage — it is exac
 
 | | |
 |---|---|
-| **The 15% that is built** | **Phase 1 and the booking layer of Phase 2.** The venues are fixed. They are running on the system at 32 pilot venues in Thailand, taking bookings and payments |
+| **The 15% that is built** | **Phase 1 and the booking layer of Phase 2.** The venues are fixed. They are running on the system at 20 pilot venues in Thailand, taking bookings and payments |
 | **The 85% this project builds** | **Phase 3 — the lifestyle layer** — plus what national scale requires: venue hardware integration, automated tax reporting to the Revenue Department, AI-assisted onboarding, and a multi-tenant backend |
 
 **Say it this way on the slide, because it is true and it is far stronger than a feature list:**
@@ -197,7 +197,7 @@ would damage the application.
 | **4** | Founding dates of **2021 / 2022**, pilots in **2024** | Education AI Group was incorporated **17 September 2025**. Ignore all dates in the source material |
 | **5** | **Dmitri Muzika** named as a co-founder | Only **Justin Cohen** and **Dmytro Bodlev** are named in the pack |
 | **6** | **"Thailand's Official Sports Marketplace"**, "in association with the Thai government", MoU language | **There is no signed government MoU.** The company's own claims register forbids this |
-| **7** | **40,000 users · 14 venues · 3,000+ businesses listed · 60% conversion · 90% retention · one venue +40% revenue** | Investor-pack figures, not reconciled to the BOI timeline and internally flagged as awaiting evidence. **The application states 32 pilot venues.** Do not mix the two sets |
+| **7** | **40,000 users · 14 venues · 3,000+ businesses listed · 60% conversion · 90% retention · one venue +40% revenue** | Investor-pack figures, not reconciled to the BOI timeline and internally flagged as awaiting evidence. **The application states 20 pilot venues.** Do not mix the two sets |
 | **8** | International expansion, global rollout, "LinkedIn of sport" | The application is about **building the product in Thailand**. Scale ambition stays out |
 
 **Everything else — the problem, the founding insight, the three phases, the architecture, the

@@ -247,7 +247,7 @@ PromptPay, Thai QR, cards
 ```
 Status line, given weight:
 ```
-Live at 32 pilot venues in Thailand
+Live at 20 pilot venues in Thailand
 ```
 Caption:
 ```
@@ -393,7 +393,7 @@ payments as a master merchant, memberships, customer records, automatic
 accounting and tax reporting — every service business in Thailand needs
 the same machine.
 
-MySportia     Sports and activity venues              LIVE — 32 pilot venues
+MySportia     Sports and activity venues              LIVE — 20 pilot venues
 Kizzem        Venue and service booking, any industry BUILT
 PetFlow HQ    Pet-care businesses                     BUILT
 

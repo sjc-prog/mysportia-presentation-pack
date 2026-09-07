@@ -52,7 +52,7 @@ Three in four people stop playing sport entirely after they leave education. Ove
 
 The obvious first build was the consumer marketplace. **It could not be built.** The venues were the bottleneck — notebooks, spreadsheets, LINE messages, nothing bookable. You cannot build a marketplace on top of businesses that are not bookable. **Hotels first got booking systems; only then did a booking marketplace become possible.** So the order was inverted deliberately: first fix the venues, then build the thing people actually use.
 
-Phase 1, fix the venues — **built**. Phase 2, the marketplace — **built**, live at 32 pilot venues in Thailand. Phase 3, the lifestyle layer — profiles, skill ratings, opponent matching, leagues, tournaments, national rankings, community, native mobile — **this project**. Discovery → Booking → **Participation → Community → Progression**: the first two get someone to one session; the last three decide whether they are still playing in a year.
+Phase 1, fix the venues — **built**. Phase 2, the marketplace — **built**, live at 20 pilot venues in Thailand. Phase 3, the lifestyle layer — profiles, skill ratings, opponent matching, leagues, tournaments, national rankings, community, native mobile — **this project**. Discovery → Booking → **Participation → Community → Progression**: the first two get someone to one session; the last three decide whether they are still playing in a year.
 
 **This is why the 15/85 split is what it is.** The 15% is the plumbing. The 85% is the product.
 
@@ -487,14 +487,14 @@ Marketplace listing and booking — live at mysportia.com
 Payment infrastructure — master merchant with Stripe and Omise;
 PromptPay, Thai QR, cards
 
-Live at 32 pilot venues in Thailand
+Live at 20 pilot venues in Thailand
 
 Phase 1, and the booking layer of Phase 2 — approximately 15% of the planned
 system. The venues are fixed and running.
 ```
 
 **Design direction:** 
-**The showcase slide — real product, never mockups.** Use the supplied live screenshots: the marketplace with the live map, the phone booking flow, and one back-office screen (analytics or calendar). Framed in white cards with hairline borders on the off-white ground — no tilted 3D devices, no drop shadows. “Live at 32 pilot venues in Thailand” is the line that gets the weight.
+**The showcase slide — real product, never mockups.** Use the supplied live screenshots: the marketplace with the live map, the phone booking flow, and one back-office screen (analytics or calendar). Framed in white cards with hairline borders on the off-white ground — no tilted 3D devices, no drop shadows. “Live at 20 pilot venues in Thailand” is the line that gets the weight.
 
 **Presenter script — spoken by Justin, never set on the slide:**
 
@@ -504,7 +504,7 @@ Now — everything on this slide is **live**. This is not a concept and these ar
 
 This is the marketplace, live at mysportia.com — real venues on a real map. This is the booking flow on a phone — pick a trainer, pick a time, pay. And this is the back office a venue manager sees every morning.
 
-It’s running today at **thirty-two pilot venues in Thailand**, taking real bookings and real payments, right now. And underneath it sits real payment infrastructure: we operate as a **master merchant with Stripe and with Omise** — a new venue is taking digital payments in hours, not weeks. The rails are already built to scale.
+It’s running today at **twenty pilot venues in Thailand**, taking real bookings and real payments, right now. And underneath it sits real payment infrastructure: we operate as a **master merchant with Stripe and with Omise** — a new venue is taking digital payments in hours, not weeks. The rails are already built to scale.
 
 Measured against the full product we’ve planned, this is roughly **fifteen percent** of it. The venues are fixed. The plumbing works. Which is exactly what makes the next slide possible.
 
@@ -638,7 +638,7 @@ This is what we build next. Eight functions — and **none of them exists in the
 
 *Lift the pace through the list; slow down only on the three bolded items.*
 
-A player feed, so people discover what’s near them. **Opponent matching** — sport, skill level, location, availability — so a person without a group can still play. Leagues, tournaments and national rankings, so there’s something to play for. **Automated tax reporting** — the venue’s returns prepared from its own transaction records and submitted through the Revenue Department’s digital channels, so a venue enters the tax system without doing the paperwork. Venue hardware — gates, kiosks, point of sale, QR entry. Native mobile apps for players and venue operators. AI-assisted onboarding, so a venue joins in hours, not weeks. And the **backend for national scale** — thousands of venues, not thirty-two.
+A player feed, so people discover what’s near them. **Opponent matching** — sport, skill level, location, availability — so a person without a group can still play. Leagues, tournaments and national rankings, so there’s something to play for. **Automated tax reporting** — the venue’s returns prepared from its own transaction records and submitted through the Revenue Department’s digital channels, so a venue enters the tax system without doing the paperwork. Venue hardware — gates, kiosks, point of sale, QR entry. Native mobile apps for players and venue operators. AI-assisted onboarding, so a venue joins in hours, not weeks. And the **backend for national scale** — thousands of venues, not twenty.
 
 All of it built **in Thailand, by our Thai engineering team, in twelve months**.
 
@@ -707,7 +707,7 @@ payments as a master merchant, memberships, customer records, automatic
 accounting and tax reporting — every service business in Thailand needs
 the same machine.
 
-MySportia     Sports and activity venues              LIVE — 32 pilot venues
+MySportia     Sports and activity venues              LIVE — 20 pilot venues
 Kizzem        Venue and service booking, any industry BUILT
 PetFlow HQ    Pet-care businesses                     BUILT
 
@@ -1030,7 +1030,7 @@ Two of these cost real money: BOI’s own rule for this activity (Por.12/2566 cl
 
 ## Never these figures
 
-The old investor decks carry claims that must not appear: ~~40,000 users~~, ~~14 venues~~, ~~3,000+ businesses listed~~, ~~60% conversion~~, ~~90% retention~~, ~~+40% venue revenue~~, ~~“Thailand’s Official Sports Marketplace”~~, ~~any government MoU or endorsement~~. There is no signed MoU. The deck states **32 pilot venues** and nothing else.
+The old investor decks carry claims that must not appear: ~~40,000 users~~, ~~14 venues~~, ~~3,000+ businesses listed~~, ~~60% conversion~~, ~~90% retention~~, ~~+40% venue revenue~~, ~~“Thailand’s Official Sports Marketplace”~~, ~~any government MoU or endorsement~~. There is no signed MoU. The deck states **20 pilot venues** and nothing else.
 
 ## People
 

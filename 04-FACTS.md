@@ -39,7 +39,7 @@
 |---|---|
 | Built | **~15%** of the planned system |
 | This project | **~85%** — eight new functions |
-| Live at | **32 pilot venues in Thailand** |
+| Live at | **20 pilot venues in Thailand** — corrected from 32 by Justin, 2026-09-07; **never write 32** |
 | Duration | **Twelve months** |
 
 **Use 15% everywhere. Never 10%, never 50%.** It is completeness against full planned product scope,
@@ -148,7 +148,7 @@ as **counts only**. Nobody is hired yet and the deck must not imply otherwise.
 
 | Framework | Industry | Status | |
 |---|---|---|---|
-| MySportia | Sports and activity venues | **LIVE — 32 pilot venues** | the subject of this application |
+| MySportia | Sports and activity venues | **LIVE — 20 pilot venues** | the subject of this application |
 | Kizzem | Venue and service booking, any industry | **BUILT** | group product |
 | PetFlow HQ | Pet-care businesses | **BUILT** | group product |
 
@@ -185,7 +185,7 @@ own claims register as awaiting evidence.
 "in association with the Thai government" · any MoU or endorsement language
 ```
 
-**There is no signed government MoU.** The application states **32 pilot venues** and nothing else.
+**There is no signed government MoU.** The application states **20 pilot venues** and nothing else.
 
 ## Output size
 
