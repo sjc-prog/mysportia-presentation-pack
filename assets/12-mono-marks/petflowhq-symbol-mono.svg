@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108" role="img" aria-label="PetFlow HQ">
+  <path d="M 27 92 L 27 34 C 27 23 35 16 46 16 L 55 16 C 70 16 81 26 81 39 C 81 52 70 62 55 62 L 44 62"
+        fill="none" stroke="#20263A" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="44" cy="62" r="8" fill="#20263A"/>
+  <circle cx="55" cy="39" r="7" fill="#20263A"/>
+</svg>
