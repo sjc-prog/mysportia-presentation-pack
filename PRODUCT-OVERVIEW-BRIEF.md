@@ -1,7 +1,7 @@
 # BRIEF 2 — Product Overview: Photos & Catalog
 
 > **Job:** rebuild the BOI submission document *"Photos, illustration and/or catalog"* to the same visual standard as the deck.
-> **Format:** A4 **landscape**, 6–8 pages, PDF under 5MB.
+> **Format:** A4 **landscape**, 8–9 pages, PDF under 5MB.
 > Read `DECK-BRIEF.md` first for the brand system — it applies here unchanged.
 
 ---
@@ -29,7 +29,8 @@ Study `assets/09-figma-final/screen-players.png` and `screen-business.png`. Repr
 - **Never more than three screens per page.** One dominant, two supporting. The current page 3 crams six back-office screens into a grid — split it across two pages and let them breathe.
 
 Ready-made device compositions to reuse directly:
-`asset-feature-grid.png` · `asset-feature-bookings.png` · `asset-feature-customers.png` · `asset-feature-memberships.png` · `asset-feature-operations.png` · `asset-feature-payments.png`
+`asset-feature-grid.png` · `asset-feature-bookings.png` · `asset-feature-customers.png` · `asset-feature-memberships.png` · `asset-feature-operations.png`
+(⚠️ **not** `asset-feature-payments.png` — it shows *Exsportia Pay*, a banned term. See §3a.)
 
 ---
 
@@ -90,7 +91,7 @@ Pages 4/5 and 6/7 may merge if the design is stronger for it, but never at the c
 
 **Footer on every page:** thin gradient rule, `Education AI Group Co., Ltd.` left, page number right.
 
-**Closing line, page 8 foot, small:** *"All software imagery is the production system as deployed on 20 August 2026 and operated since."*
+**Closing line, final page foot, small:** *"All software imagery is the production system as deployed on 20 August 2026 and operated since."*
 
 ---
 
