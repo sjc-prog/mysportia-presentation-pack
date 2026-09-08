@@ -44,9 +44,39 @@ Ready-made device compositions to reuse directly:
 | **5 · The venue back office (ii)** | Finances, analytics, memberships and packages | Same treatment, second spread — do not compress into page 4 |
 | **6 · Booking embedded anywhere** | The booking flow; the venue's own website carrying the same live booking | Two-column: flow steps as a journey rail (coloured dots, as in `screen-marketing-distribution.png`), venue site screenshot beside |
 | **7 · Venue onboarding** | Services, schedule, pricing structured step by step | Numbered sequence, restrained |
-| **8 · The venue hardware** | Kiosks, floor stands, access gates from `assets/05-hardware/` | Product-catalog treatment on white, with spec callouts. **Must carry the manufacturer's note "Not include pos software"** — this is the evidence that the software layer is EAG's own |
+| **8 · Payment infrastructure** | Master merchant with Omise (OPN) and PayPal — see §3a | Headline page. Partner lockups, payment-method cluster, the payment→reconciled→reportable chain |
+| **9 · The venue hardware** | Kiosks, floor stands, access gates from `assets/05-hardware/` | Product-catalog treatment on white, with spec callouts. **Must carry the manufacturer's note "Not include pos software"** — this is the evidence that the software layer is EAG's own |
 
 Pages 4/5 and 6/7 may merge if the design is stronger for it, but never at the cost of cramming.
+
+---
+
+## 3a · NEW PAGE — Payment infrastructure (add as page 8, hardware moves to 9)
+
+**This is a headline page, not a footnote.** It carries one of the strongest facts in the whole application.
+
+**The claim, stated plainly:**
+
+> MySportia is a **master merchant** with **Omise (OPN)** — one of Thailand's largest payment processors — and with **PayPal**. Both are signed, long-term agreements already in place.
+
+**Why it matters — the argument the page must make:**
+
+1. **Every venue payment runs through the platform.** Card, PromptPay, e-wallet, bank transfer — the venue does not need its own merchant account or gateway contract.
+2. **This removes cash.** A venue operating on MySportia can be fully digital end to end.
+3. **Every transaction is therefore accounted for automatically.** Payment and bookkeeping are the same event, not two — which is what makes automated reporting to the Revenue Department possible.
+4. **This is infrastructure, not a feature.** It is why the venue side had to be built first, and it is the foundation the marketplace layer depends on.
+
+**Design:**
+- Headline in the deck idiom: a complete sentence with one pink clause — e.g. *"Every payment a venue takes runs through infrastructure we already own."*
+- Partner lockup: `MySportia × Omise` and `MySportia × PayPal`, in the dark-band treatment from `assets/11-mysportia-brand/figma-exports_Section - BLOCK 2 · OPN_Omise infrastructure.png` — a black rounded band, partner marks, status line to the right reading **"Master merchant · signed long-term agreement"**
+- Payment-method cluster beneath: Google Pay, PromptPay, TrueMoney, Alipay, LINE Pay, WeChat Pay — from `assets/11-mysportia-brand/figma-exports_Section - BLOCK 7 · Payment infrastructure reminder.png`
+- A short chain showing **payment → recorded → reconciled → reportable**, as a journey rail with coloured dots
+
+**⚠️ Logo constraints — read before designing:**
+- We do **not** hold official Omise or PayPal logo files. Set both **typographically** in the Figma manner (clean wordmark in a rounded band), or Justin will supply official assets from `omise.co` / `paypal.com` brand pages.
+- **Never** use `assets/09-figma-final/asset-feature-payments.png` — it shows *"Exsportia Pay"*, a banned term. If a payment UI screen is wanted, it must be a current MySportia-branded screenshot.
+- Do not imply Omise or PayPal endorse the BOI application. State the commercial relationship only.
+
 
 ---
 
